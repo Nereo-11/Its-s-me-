@@ -1,0 +1,628 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1727227593
+Arbol2.tscn::PackedScene::-1::1727227566::0::1::::<><>::res://AssetsDescargados/PNG/middle_lane_tree5.png
+Arbol.tscn::PackedScene::-1::1727227566::0::1::::<><>::res://AssetsDescargados/PNG/birch_1.png
+Bandera.tscn::PackedScene::-1::1727227566::0::1::::<><>::res://AssetsDescargados/PAID VERSION/Npcs/32x32_spr_alien_04.png
+Bonnie Tyler - Holding Out for a Hero (Official Lyric Video) (320).mp3::AudioStreamMP3::8783648701603730327::1717096698::1727227601::1::::<><>::
+cityscape-city-street-vector-20536556.jpg::CompressedTexture2D::8856060876738333081::1710984767::1727227603::1::::<><>::
+default_env.tres::Environment::-1::1727227566::0::1::::<><>::
+Edificio.tscn::PackedScene::-1::1727227566::0::1::::<><>::res://AssetsDescargados/PAID VERSION/White/spr_the_heaver_bar.png
+Enemy2.png::CompressedTexture2D::5398463267239424267::1715753313::1727227602::1::::<><>::
+Enemy2.tscn::PackedScene::-1::1727227566::0::1::::<><>::res://Enemy2.png<>res://EnemyL2.gd
+Enemy.gd::GDScript::-1::1727227566::0::1::::<>CharacterBody2D<>::
+Enemy.tscn::PackedScene::-1::1727227566::0::1::::<><>::res://Enemy.gd<>res://pixil-frame-0 (5).png
+EnemyL2.gd::GDScript::-1::1727227566::0::1::::<>CharacterBody2D<>::
+export_presets.cfg::TextFile::-1::1717253670::0::1::::<><>::
+Hero.gd::GDScript::-1::1727227566::0::1::::<>CharacterBody2D<>::
+Hero.tscn::PackedScene::-1::1727227566::0::1::::<><>::res://AssetsDescargados/Heros.png<>res://HeroP.gd<>res://LifeCounterHero.gd
+HeroP.gd::GDScript::-1::1727227566::0::1::::<>CharacterBody2D<>::
+icon.png::CompressedTexture2D::4275640053353151409::1710868667::1727227602::1::::<><>::
+LifeCounter.tscn::PackedScene::-1::1727227566::0::1::::<><>::res://Niveles/LifeCounter.gd
+LifeCounterHero.gd::GDScript::-1::1727227566::0::1::::<>Label<>::
+Main.tscn::PackedScene::-1::1727227566::0::1::::<><>::res://AssetsDescargados/Platformer 2D TilesSet #1 64x64.png<>res://Hero.tscn<>res://Puerta.tscn<>res://AssetsDescargados/free-city-backgrounds-pixel-art/city 2/2.png<>res://AssetsDescargados/free-city-backgrounds-pixel-art/city 2/3.png<>res://AssetsDescargados/free-city-backgrounds-pixel-art/city 2/5.png<>res://AssetsDescargados/free-city-backgrounds-pixel-art/city 2/4.png<>res://AssetsDescargados/free-city-backgrounds-pixel-art/city 2/1.png<>res://AssetsDescargados/free-city-backgrounds-pixel-art/city 2/6.png<>res://Edificio.tscn<>res://AssetsDescargados/graveyardtilesetnew/png/Objects/Sign.png
+MusicFondo.tscn::PackedScene::-1::1727227566::0::1::::<><>::res://Bonnie Tyler - Holding Out for a Hero (Official Lyric Video) (320).mp3
+Orbe.gd::GDScript::-1::1727227566::0::1::::<>Area2D<>::
+Orbe.tscn::PackedScene::-1::1727227566::0::1::::<><>::res://AssetsDescargados/Orbe/pixil-frame-0 (1).png<>res://AssetsDescargados/Orbe/pixil-frame-0 (2).png<>res://AssetsDescargados/Orbe/pixil-frame-0 (3).png<>res://AssetsDescargados/Orbe/pixil-frame-0.png<>res://Orbe.gd
+pixil-frame-0 (3).png::CompressedTexture2D::6221528643904628898::1710869881::1727227608::1::::<><>::
+pixil-frame-0 (5).png::CompressedTexture2D::6266825918377829373::1710985515::1727227602::1::::<><>::
+Platformer 2D TilesSet #1 64x64.png::CompressedTexture2D::305439634606233545::1713589159::1727227602::1::::<><>::
+Puerta2.gd::GDScript::-1::1727227566::0::1::::<>RefCounted<>::
+Puerta3.gd::GDScript::-1::1727227566::0::1::::<>RefCounted<>::
+Puerta.gd::GDScript::-1::1727227566::0::1::::<>RefCounted<>::
+Puerta.tscn::PackedScene::-1::1727227566::0::1::::<><>::res://AssetsDescargados/freetileset/png/Object/Sign_2.png<>res://Puerta.gd
+Resources.gd::GDScript::-1::1727227566::0::1::::<>Node<>::
+Resources.tscn::PackedScene::-1::1727227566::0::1::::<><>::res://Resources.gd
+values.cfg::TextFile::-1::1715711899::0::1::::<><>::
+::res://AssetsDescargados/::1715042099
+Heros.png::CompressedTexture2D::7377327692458595301::1714096539::1727227603::1::::<><>::
+Platformer 2D TilesSet #1 64x64.png::CompressedTexture2D::2734282461951792047::1713589162::1727227602::1::::<><>::
+utomp3.com - Peso Vivaldi  Lady Gaga.mp3::AudioStreamMP3::2609121972597849469::1713883737::1727227601::1::::<><>::
+::res://AssetsDescargados/craftpix-net-475090-free-fantasy-enemies-pixel-art-sprite-pack/::1714003154
+COUPON.png::CompressedTexture2D::8446410875141786603::1714003153::1727227606::1::::<><>::
+Font.txt::TextFile::-1::1714003153::0::1::::<><>::
+Licens.txt::TextFile::-1::1714003153::0::1::::<><>::
+::res://AssetsDescargados/craftpix-net-475090-free-fantasy-enemies-pixel-art-sprite-pack/Fire_Spirit/::1714003154
+Attack.png::CompressedTexture2D::4709945704591717699::1714003153::1727227605::1::::<><>::
+Charge.png::CompressedTexture2D::1311129168667367724::1714003153::1727227605::1::::<><>::
+Dead.png::CompressedTexture2D::2166752826513343163::1714003153::1727227605::1::::<><>::
+Explosion.png::CompressedTexture2D::7704727057543904355::1714003153::1727227605::1::::<><>::
+Flame.png::CompressedTexture2D::4567882262810350864::1714003153::1727227605::1::::<><>::
+Hurt.png::CompressedTexture2D::8118029220856242405::1714003153::1727227605::1::::<><>::
+Idle.png::CompressedTexture2D::6889268388449884364::1714003153::1727227605::1::::<><>::
+Idle_2.png::CompressedTexture2D::3085093396295503123::1714003153::1727227605::1::::<><>::
+Run.png::CompressedTexture2D::6286897757356893143::1714003153::1727227605::1::::<><>::
+Shot.png::CompressedTexture2D::2815294090943683896::1714003153::1727227605::1::::<><>::
+Walk.png::CompressedTexture2D::367069840970115633::1714003153::1727227605::1::::<><>::
+::res://AssetsDescargados/craftpix-net-475090-free-fantasy-enemies-pixel-art-sprite-pack/Plent/::1714003155
+Attack_1.png::CompressedTexture2D::8268665104355810130::1714003153::1727227605::1::::<><>::
+Attack_2.png::CompressedTexture2D::2501961353604093997::1714003153::1727227605::1::::<><>::
+Attack_3.png::CompressedTexture2D::3683507740095084134::1714003153::1727227605::1::::<><>::
+Attack_Disquise.png::CompressedTexture2D::1297515292898619747::1714003153::1727227605::1::::<><>::
+Cloud_posion.png::CompressedTexture2D::3151479308603858470::1714003153::1727227605::1::::<><>::
+Dead.png::CompressedTexture2D::2644137099074845466::1714003153::1727227605::1::::<><>::
+Disguise.png::CompressedTexture2D::201514084179026178::1714003153::1727227605::1::::<><>::
+Hurt.png::CompressedTexture2D::6135504613933377532::1714003153::1727227605::1::::<><>::
+Idle.png::CompressedTexture2D::2097637942923603962::1714003153::1727227605::1::::<><>::
+Poison.png::CompressedTexture2D::5486406527350035053::1714003153::1727227605::1::::<><>::
+Walk.png::CompressedTexture2D::3223868941410070098::1714003153::1727227605::1::::<><>::
+::res://AssetsDescargados/craftpix-net-475090-free-fantasy-enemies-pixel-art-sprite-pack/PSD/::1714003153
+::res://AssetsDescargados/craftpix-net-475090-free-fantasy-enemies-pixel-art-sprite-pack/Skeleton/::1714003154
+Attack_1.png::CompressedTexture2D::1574887969498864090::1714003153::1727227605::1::::<><>::
+Attack_2.png::CompressedTexture2D::249163940089965440::1714003153::1727227605::1::::<><>::
+Attack_3.png::CompressedTexture2D::4126908973962529037::1714003153::1727227605::1::::<><>::
+Dead.png::CompressedTexture2D::1656209212485686223::1714003153::1727227605::1::::<><>::
+Hurt.png::CompressedTexture2D::3351177048619158071::1714003153::1727227605::1::::<><>::
+Idle.png::CompressedTexture2D::4888767333332921590::1714003153::1727227605::1::::<><>::
+Jump.png::CompressedTexture2D::4053047109538379671::1714003153::1727227605::1::::<><>::
+Run.png::CompressedTexture2D::6426896547690916237::1714003153::1727227605::1::::<><>::
+Special_attack.png::CompressedTexture2D::4848534280267890151::1714003153::1727227605::1::::<><>::
+Walk.png::CompressedTexture2D::3246556571531896498::1714003153::1727227606::1::::<><>::
+::res://AssetsDescargados/craftpix-net-620836-free-fantasy-chibi-male-sprites-pixel-art/::1713892701
+COUPON.png::CompressedTexture2D::7852325336374340027::1713719484::1727227604::1::::<><>::
+Font.txt::TextFile::-1::1713719484::0::1::::<><>::
+Licens.txt::TextFile::-1::1713719484::0::1::::<><>::
+::res://AssetsDescargados/craftpix-net-620836-free-fantasy-chibi-male-sprites-pixel-art/Archer/::1713892702
+Arrow.png::CompressedTexture2D::5268381336953939995::1713719484::1727227606::1::::<><>::
+Attack_1.png::CompressedTexture2D::1568500729926619550::1713719484::1727227606::1::::<><>::
+Dead.png::CompressedTexture2D::1147485900223464800::1713719484::1727227606::1::::<><>::
+Hurt.png::CompressedTexture2D::6594587409069745157::1713719484::1727227606::1::::<><>::
+Idle.png::CompressedTexture2D::4873236341302996407::1713719484::1727227606::1::::<><>::
+Idle_2.png::CompressedTexture2D::583294479985702277::1713719484::1727227605::1::::<><>::
+Jump.png::CompressedTexture2D::4623749221419803431::1713719484::1727227605::1::::<><>::
+Run.png::CompressedTexture2D::5477876009027829830::1713719484::1727227605::1::::<><>::
+Shot_1.png::CompressedTexture2D::5363792800444500070::1713719484::1727227605::1::::<><>::
+Shot_2.png::CompressedTexture2D::2758864530678951026::1713719484::1727227605::1::::<><>::
+Walk.png::CompressedTexture2D::7086573454223996550::1713719484::1727227605::1::::<><>::
+::res://AssetsDescargados/craftpix-net-620836-free-fantasy-chibi-male-sprites-pixel-art/PSD/::1713719484
+::res://AssetsDescargados/craftpix-net-620836-free-fantasy-chibi-male-sprites-pixel-art/Swordsman/::1713892702
+Attack_1.png::CompressedTexture2D::9140278691330111150::1713719484::1727227605::1::::<><>::
+Attack_2.png::CompressedTexture2D::2636852223865137154::1713719484::1727227605::1::::<><>::
+Attack_3.png::CompressedTexture2D::6253902040375228076::1713719484::1727227605::1::::<><>::
+Dead.png::CompressedTexture2D::5874315832502291493::1713719485::1727227605::1::::<><>::
+Hurt.png::CompressedTexture2D::6727021705402662::1713719485::1727227605::1::::<><>::
+Idle.png::CompressedTexture2D::2078854589478916374::1713719485::1727227605::1::::<><>::
+Idle_2.png::CompressedTexture2D::658360253697399610::1713719485::1727227605::1::::<><>::
+Jump.png::CompressedTexture2D::2608262661507604812::1713719485::1727227605::1::::<><>::
+Run.png::CompressedTexture2D::7730516969102292703::1713719485::1727227605::1::::<><>::
+Walk.png::CompressedTexture2D::7903651453939379051::1713719485::1727227605::1::::<><>::
+::res://AssetsDescargados/craftpix-net-620836-free-fantasy-chibi-male-sprites-pixel-art/Wizard/::1713892701
+Attack_1.png::CompressedTexture2D::4955711668190433232::1713719485::1727227605::1::::<><>::
+Attack_2.png::CompressedTexture2D::4665725371077962754::1713719485::1727227605::1::::<><>::
+Attack_3.png::CompressedTexture2D::8219125051268069972::1713719485::1727227605::1::::<><>::
+Dead.png::CompressedTexture2D::1235089547671439972::1713719485::1727227605::1::::<><>::
+Hurt.png::CompressedTexture2D::7603269237671307980::1713719485::1727227605::1::::<><>::
+Idle.png::CompressedTexture2D::5641048055028014147::1713719485::1727227605::1::::<><>::
+Idle_2.png::CompressedTexture2D::6436410125883065437::1713719485::1727227605::1::::<><>::
+Jump.png::CompressedTexture2D::8152750456722129041::1713719485::1727227605::1::::<><>::
+Run.png::CompressedTexture2D::3886844432039345710::1713719485::1727227604::1::::<><>::
+Walk.png::CompressedTexture2D::5640118787443933146::1713719485::1727227604::1::::<><>::
+::res://AssetsDescargados/free-city-backgrounds-pixel-art/::1713892660
+License.txt::TextFile::-1::1713892660::0::1::::<><>::
+::res://AssetsDescargados/free-city-backgrounds-pixel-art/city 1/::1713892686
+1.png::CompressedTexture2D::7099691893071284615::1713892659::1727227604::1::::<><>::
+2.png::CompressedTexture2D::7461634871921991595::1713892659::1727227604::1::::<><>::
+3.png::CompressedTexture2D::8399877902350433854::1713892659::1727227604::1::::<><>::
+4.png::CompressedTexture2D::3974492191432025141::1713892659::1727227604::1::::<><>::
+5.png::CompressedTexture2D::5730676305270910126::1713892659::1727227604::1::::<><>::
+6.png::CompressedTexture2D::9054483824120873732::1713892659::1727227604::1::::<><>::
+10.png::CompressedTexture2D::8790322452498782399::1713892659::1727227604::1::::<><>::
+::res://AssetsDescargados/free-city-backgrounds-pixel-art/city 2/::1713892686
+1.png::CompressedTexture2D::5621861784673663653::1713892659::1727227604::1::::<><>::
+2.png::CompressedTexture2D::1293922435732880022::1713892659::1727227604::1::::<><>::
+3.png::CompressedTexture2D::5233906635831956487::1713892659::1727227604::1::::<><>::
+4.png::CompressedTexture2D::8900527167148360212::1713892659::1727227604::1::::<><>::
+5.png::CompressedTexture2D::87663693471098891::1713892659::1727227604::1::::<><>::
+6.png::CompressedTexture2D::377829763049787026::1713892659::1727227604::1::::<><>::
+7.png::CompressedTexture2D::4944023940829175263::1713892659::1727227604::1::::<><>::
+10.png::CompressedTexture2D::8186050986845504223::1713892659::1727227604::1::::<><>::
+::res://AssetsDescargados/free-city-backgrounds-pixel-art/city 3/::1713892687
+1.png::CompressedTexture2D::2264131568310878408::1713892659::1727227603::1::::<><>::
+2.png::CompressedTexture2D::399817394701911630::1713892659::1727227603::1::::<><>::
+3.png::CompressedTexture2D::5863160258293229240::1713892659::1727227603::1::::<><>::
+4.png::CompressedTexture2D::3059209703285897487::1713892659::1727227603::1::::<><>::
+5.png::CompressedTexture2D::1402962878853644547::1713892659::1727227603::1::::<><>::
+6.png::CompressedTexture2D::4945523511014061254::1713892659::1727227603::1::::<><>::
+7.png::CompressedTexture2D::237448880920768972::1713892659::1727227604::1::::<><>::
+::res://AssetsDescargados/free-city-backgrounds-pixel-art/city 4/::1713892687
+1.png::CompressedTexture2D::8682523837882615177::1713892659::1727227603::1::::<><>::
+2.png::CompressedTexture2D::8265830594161864903::1713892659::1727227603::1::::<><>::
+3.png::CompressedTexture2D::5450401465875491675::1713892659::1727227603::1::::<><>::
+4.png::CompressedTexture2D::7144059291433808814::1713892659::1727227603::1::::<><>::
+5.png::CompressedTexture2D::5399298714764779145::1713892659::1727227603::1::::<><>::
+7.png::CompressedTexture2D::3200037841068909761::1713892659::1727227605::1::::<><>::
+8.png::CompressedTexture2D::6746854327338767195::1713892659::1727227604::1::::<><>::
+9.png::CompressedTexture2D::3975214883047810750::1713892659::1727227605::1::::<><>::
+::res://AssetsDescargados/free-city-backgrounds-pixel-art/city 5/::1713892687
+1.png::CompressedTexture2D::9177244682867463235::1713892659::1727227604::1::::<><>::
+2.png::CompressedTexture2D::1845977347229510913::1713892659::1727227604::1::::<><>::
+3.png::CompressedTexture2D::6486110218317845678::1713892659::1727227604::1::::<><>::
+4.png::CompressedTexture2D::6406169923577517738::1713892660::1727227604::1::::<><>::
+5.png::CompressedTexture2D::4330013425619802058::1713892660::1727227604::1::::<><>::
+6.png::CompressedTexture2D::3245686037508766306::1713892660::1727227604::1::::<><>::
+7.png::CompressedTexture2D::3173500188637269707::1713892660::1727227605::1::::<><>::
+::res://AssetsDescargados/free-city-backgrounds-pixel-art/city 6/::1713892685
+1.png::CompressedTexture2D::8047239574236349920::1713892660::1727227604::1::::<><>::
+2.png::CompressedTexture2D::5775754112902365106::1713892660::1727227604::1::::<><>::
+3.png::CompressedTexture2D::7513560058634264261::1713892660::1727227604::1::::<><>::
+4.png::CompressedTexture2D::7397856639157067531::1713892660::1727227604::1::::<><>::
+5.png::CompressedTexture2D::4668495005069201780::1713892660::1727227604::1::::<><>::
+6.png::CompressedTexture2D::8477416749279080922::1713892660::1727227604::1::::<><>::
+7.png::CompressedTexture2D::2418503628252810414::1713892660::1727227604::1::::<><>::
+8.png::CompressedTexture2D::8672121110872401135::1713892660::1727227604::1::::<><>::
+::res://AssetsDescargados/free-city-backgrounds-pixel-art/city 7/::1713892685
+1.png::CompressedTexture2D::8596891064506428356::1713892660::1727227604::1::::<><>::
+2.png::CompressedTexture2D::3168104460134672317::1713892660::1727227604::1::::<><>::
+3.png::CompressedTexture2D::8415248186834759176::1713892660::1727227604::1::::<><>::
+4.png::CompressedTexture2D::1389174696022724217::1713892660::1727227604::1::::<><>::
+5.png::CompressedTexture2D::7303218996964986977::1713892660::1727227604::1::::<><>::
+6.png::CompressedTexture2D::1258954673377205351::1713892660::1727227604::1::::<><>::
+7.png::CompressedTexture2D::6215500081887218477::1713892660::1727227604::1::::<><>::
+::res://AssetsDescargados/free-city-backgrounds-pixel-art/city 8/::1713892686
+1.png::CompressedTexture2D::6861438250107127249::1713892660::1727227604::1::::<><>::
+2.png::CompressedTexture2D::4434979389125128733::1713892660::1727227604::1::::<><>::
+3.png::CompressedTexture2D::312221477062757065::1713892660::1727227604::1::::<><>::
+4.png::CompressedTexture2D::986184046554610185::1713892660::1727227604::1::::<><>::
+5.png::CompressedTexture2D::8035434924709873229::1713892660::1727227604::1::::<><>::
+6.png::CompressedTexture2D::4410620909851711960::1713892660::1727227604::1::::<><>::
+7.png::CompressedTexture2D::7288633203001711307::1713892660::1727227608::1::::<><>::
+::res://AssetsDescargados/Free-Summer-Pixel-Art-Backgrounds/::1714003149
+COUPON.png::CompressedTexture2D::1208121037406790258::1714003139::1727227608::1::::<><>::
+License.txt::TextFile::-1::1714003139::0::1::::<><>::
+readme.txt::TextFile::-1::1714003139::0::1::::<><>::
+::res://AssetsDescargados/Free-Summer-Pixel-Art-Backgrounds/PNG/::1714003139
+::res://AssetsDescargados/Free-Summer-Pixel-Art-Backgrounds/PNG/summer5/::1714003149
+1.png::CompressedTexture2D::2985684836444151781::1714003139::1727227607::1::::<><>::
+2.png::CompressedTexture2D::2121974256166516953::1714003139::1727227607::1::::<><>::
+3.png::CompressedTexture2D::2127996732787202920::1714003139::1727227607::1::::<><>::
+4.png::CompressedTexture2D::472816195128919387::1714003139::1727227607::1::::<><>::
+Summer5.png::CompressedTexture2D::5703338630769806597::1714003139::1727227607::1::::<><>::
+::res://AssetsDescargados/Free-Summer-Pixel-Art-Backgrounds/PNG/summer6/::1714003150
+1.png::CompressedTexture2D::1837325376442763997::1714003139::1727227607::1::::<><>::
+2.png::CompressedTexture2D::3100122953285397838::1714003139::1727227607::1::::<><>::
+3.png::CompressedTexture2D::2834616606283409418::1714003139::1727227607::1::::<><>::
+4.png::CompressedTexture2D::2960291951579919163::1714003139::1727227607::1::::<><>::
+5.png::CompressedTexture2D::1258462719795274220::1714003139::1727227607::1::::<><>::
+Summer6.png::CompressedTexture2D::452532010563122070::1714003139::1727227607::1::::<><>::
+::res://AssetsDescargados/Free-Summer-Pixel-Art-Backgrounds/PNG/summer7/::1714003150
+1.png::CompressedTexture2D::8530849887117440354::1714003139::1727227607::1::::<><>::
+2.png::CompressedTexture2D::1215777513528854282::1714003139::1727227607::1::::<><>::
+3.png::CompressedTexture2D::2451583143128813898::1714003139::1727227607::1::::<><>::
+4.png::CompressedTexture2D::7382439032799747150::1714003139::1727227607::1::::<><>::
+Summer7.png::CompressedTexture2D::5419926238870840606::1714003139::1727227607::1::::<><>::
+::res://AssetsDescargados/Free-Summer-Pixel-Art-Backgrounds/PNG/summer8/::1714003150
+1.png::CompressedTexture2D::6422255138369702922::1714003139::1727227607::1::::<><>::
+2.png::CompressedTexture2D::4517374265056243211::1714003139::1727227607::1::::<><>::
+3.png::CompressedTexture2D::1344532498395826984::1714003139::1727227607::1::::<><>::
+4.png::CompressedTexture2D::1569125893980067890::1714003139::1727227607::1::::<><>::
+Summer8.png::CompressedTexture2D::6392595596930770998::1714003139::1727227607::1::::<><>::
+::res://AssetsDescargados/Free-Summer-Pixel-Art-Backgrounds/PNG/summer 1/::1714003150
+1.png::CompressedTexture2D::1581053081996167992::1714003139::1727227606::1::::<><>::
+2.png::CompressedTexture2D::4900894362168253169::1714003139::1727227606::1::::<><>::
+3.png::CompressedTexture2D::9030935412595189085::1714003139::1727227606::1::::<><>::
+4.png::CompressedTexture2D::4205368605001522909::1714003139::1727227606::1::::<><>::
+Summer1.png::CompressedTexture2D::5074160903295504125::1714003139::1727227607::1::::<><>::
+::res://AssetsDescargados/Free-Summer-Pixel-Art-Backgrounds/PNG/summer 2/::1714003149
+1.png::CompressedTexture2D::626322770465293991::1714003139::1727227606::1::::<><>::
+2.png::CompressedTexture2D::5506854383327909867::1714003139::1727227606::1::::<><>::
+3.png::CompressedTexture2D::4854295550525194456::1714003139::1727227606::1::::<><>::
+4.png::CompressedTexture2D::4469965081253514175::1714003139::1727227606::1::::<><>::
+Summer2.png::CompressedTexture2D::7995968225368012143::1714003139::1727227608::1::::<><>::
+::res://AssetsDescargados/Free-Summer-Pixel-Art-Backgrounds/PNG/summer 3/::1714003149
+1.png::CompressedTexture2D::4027563365999022692::1714003139::1727227608::1::::<><>::
+2.png::CompressedTexture2D::8406321061481256194::1714003139::1727227608::1::::<><>::
+3.png::CompressedTexture2D::1061913360154714943::1714003139::1727227608::1::::<><>::
+4.png::CompressedTexture2D::727381049532763330::1714003139::1727227607::1::::<><>::
+Summer3.png::CompressedTexture2D::8144964425847372445::1714003139::1727227608::1::::<><>::
+::res://AssetsDescargados/Free-Summer-Pixel-Art-Backgrounds/PNG/summer 4/::1714003149
+1.png::CompressedTexture2D::2609435442578026874::1714003139::1727227607::1::::<><>::
+2.png::CompressedTexture2D::4993894154362661094::1714003139::1727227607::1::::<><>::
+3.png::CompressedTexture2D::8136573975064552605::1714003139::1727227607::1::::<><>::
+Summer4.png::CompressedTexture2D::6954612363612608011::1714003139::1727227607::1::::<><>::
+::res://AssetsDescargados/Free-Summer-Pixel-Art-Backgrounds/PSD/::1714003139
+::res://AssetsDescargados/freetileset/::1713586419
+::res://AssetsDescargados/freetileset/ai/::1713586419
+::res://AssetsDescargados/freetileset/cdr/::1713586419
+::res://AssetsDescargados/freetileset/eps/::1713586419
+::res://AssetsDescargados/freetileset/png/::1714008456
+::res://AssetsDescargados/freetileset/png/BG/::1713586421
+BG.png::CompressedTexture2D::8612691672291772850::1713586419::1727227607::1::::<><>::
+::res://AssetsDescargados/freetileset/png/craftpix-net-168228-free-tree-pixel-art-asset-pack/::1714008537
+COUPON.png::CompressedTexture2D::7963704858298831137::1714008537::1727227607::1::::<><>::
+License.txt::TextFile::-1::1714008537::0::1::::<><>::
+readme.txt::TextFile::-1::1714008537::0::1::::<><>::
+::res://AssetsDescargados/freetileset/png/craftpix-net-168228-free-tree-pixel-art-asset-pack/PNG/::1714008537
+birch_1.png::CompressedTexture2D::2940845056105753419::1714008537::1727227607::1::::<><>::
+birch_2.png::CompressedTexture2D::7343802202788006649::1714008537::1727227607::1::::<><>::
+birch_3.png::CompressedTexture2D::8130918693159182774::1714008537::1727227607::1::::<><>::
+birch_4.png::CompressedTexture2D::2318836939985384776::1714008537::1727227607::1::::<><>::
+birch_5.png::CompressedTexture2D::6813672620446045802::1714008537::1727227607::1::::<><>::
+birch_6.png::CompressedTexture2D::4573517104394494222::1714008537::1727227607::1::::<><>::
+birch_7.png::CompressedTexture2D::6075499970094374188::1714008537::1727227607::1::::<><>::
+birch_8.png::CompressedTexture2D::8322889582658004840::1714008537::1727227607::1::::<><>::
+birch_9.png::CompressedTexture2D::3184079540245312953::1714008537::1727227607::1::::<><>::
+birch_10.png::CompressedTexture2D::1337941861920085741::1714008537::1727227607::1::::<><>::
+birch_11.png::CompressedTexture2D::3668638293297966454::1714008537::1727227607::1::::<><>::
+birch_12.png::CompressedTexture2D::3492923308531935240::1714008537::1727227607::1::::<><>::
+fir_tree_1.png::CompressedTexture2D::5590559122728298570::1714008537::1727227607::1::::<><>::
+fir_tree_2.png::CompressedTexture2D::8234754236729835820::1714008537::1727227607::1::::<><>::
+fir_tree_3.png::CompressedTexture2D::6375180596000199538::1714008537::1727227607::1::::<><>::
+fir_tree_4.png::CompressedTexture2D::4462750220862292890::1714008537::1727227607::1::::<><>::
+fir_tree_5.png::CompressedTexture2D::7127940854204679133::1714008537::1727227607::1::::<><>::
+fir_tree_6.png::CompressedTexture2D::1739252441243065026::1714008537::1727227607::1::::<><>::
+fir_tree_7.png::CompressedTexture2D::458156379913651162::1714008537::1727227607::1::::<><>::
+fir_tree_8.png::CompressedTexture2D::1185839965462771646::1714008537::1727227606::1::::<><>::
+fir_tree_9.png::CompressedTexture2D::4352021754818621924::1714008537::1727227606::1::::<><>::
+fir_tree_10.png::CompressedTexture2D::5027409416185358911::1714008537::1727227606::1::::<><>::
+fir_tree_11.png::CompressedTexture2D::8451945197391292869::1714008537::1727227606::1::::<><>::
+jungle_tree_1.png::CompressedTexture2D::147731898142300123::1714008537::1727227606::1::::<><>::
+jungle_tree_2.png::CompressedTexture2D::1029362238551710145::1714008537::1727227606::1::::<><>::
+jungle_tree_3.png::CompressedTexture2D::5547840532903175116::1714008537::1727227606::1::::<><>::
+jungle_tree_4.png::CompressedTexture2D::8758835572091738594::1714008537::1727227606::1::::<><>::
+jungle_tree_5.png::CompressedTexture2D::8480955555992730460::1714008537::1727227606::1::::<><>::
+jungle_tree_6.png::CompressedTexture2D::4364881322503403162::1714008537::1727227606::1::::<><>::
+jungle_tree_7.png::CompressedTexture2D::8418333925487664925::1714008537::1727227606::1::::<><>::
+jungle_tree_8.png::CompressedTexture2D::1698683780405569413::1714008537::1727227606::1::::<><>::
+jungle_tree_9.png::CompressedTexture2D::800518044599751390::1714008537::1727227606::1::::<><>::
+jungle_tree_10.png::CompressedTexture2D::1238569875181503308::1714008537::1727227606::1::::<><>::
+jungle_tree_11.png::CompressedTexture2D::8056047390106781566::1714008537::1727227606::1::::<><>::
+jungle_tree_12.png::CompressedTexture2D::2779673438475613831::1714008537::1727227606::1::::<><>::
+jungle_tree_13.png::CompressedTexture2D::1116476379957968545::1714008537::1727227606::1::::<><>::
+jungle_tree_14.png::CompressedTexture2D::5473943861581417125::1714008537::1727227606::1::::<><>::
+middle_lane_tree1.png::CompressedTexture2D::7328545829728970601::1714008537::1727227606::1::::<><>::
+middle_lane_tree2.png::CompressedTexture2D::1839239127647396439::1714008537::1727227606::1::::<><>::
+middle_lane_tree3.png::CompressedTexture2D::8641045924002193407::1714008537::1727227606::1::::<><>::
+middle_lane_tree4.png::CompressedTexture2D::7607394277716403519::1714008537::1727227606::1::::<><>::
+middle_lane_tree5.png::CompressedTexture2D::1149371971176345622::1714008537::1727227606::1::::<><>::
+middle_lane_tree6.png::CompressedTexture2D::8776878713643968008::1714008537::1727227606::1::::<><>::
+middle_lane_tree7.png::CompressedTexture2D::1176889190017912580::1714008537::1727227606::1::::<><>::
+middle_lane_tree8.png::CompressedTexture2D::7842865056635198105::1714008537::1727227606::1::::<><>::
+middle_lane_tree9.png::CompressedTexture2D::8026603752778663361::1714008537::1727227606::1::::<><>::
+middle_lane_tree10.png::CompressedTexture2D::3576309196710851378::1714008537::1727227606::1::::<><>::
+middle_lane_tree11.png::CompressedTexture2D::3884170065201221530::1714008537::1727227606::1::::<><>::
+winter_conifer_tree_1.png::CompressedTexture2D::6336057921650456902::1714008537::1727227606::1::::<><>::
+winter_conifer_tree_2.png::CompressedTexture2D::3571784173929717965::1714008537::1727227606::1::::<><>::
+winter_conifer_tree_3.png::CompressedTexture2D::5587141417063114213::1714008537::1727227606::1::::<><>::
+winter_conifer_tree_4.png::CompressedTexture2D::541682768199731896::1714008537::1727227606::1::::<><>::
+winter_conifer_tree_5.png::CompressedTexture2D::106270328423046046::1714008537::1727227606::1::::<><>::
+winter_conifer_tree_6.png::CompressedTexture2D::7512319789723116787::1714008537::1727227606::1::::<><>::
+winter_conifer_tree_7.png::CompressedTexture2D::3619909715459212812::1714008537::1727227606::1::::<><>::
+winter_conifer_tree_8.png::CompressedTexture2D::3818737879636534667::1714008537::1727227606::1::::<><>::
+winter_conifer_tree_9.png::CompressedTexture2D::6008176422226530802::1714008537::1727227606::1::::<><>::
+winter_conifer_tree_10.png::CompressedTexture2D::3275372782816150119::1714008537::1727227606::1::::<><>::
+winter_conifer_tree_11.png::CompressedTexture2D::7077451864235004048::1714008537::1727227606::1::::<><>::
+winter_conifer_tree_12.png::CompressedTexture2D::2938712922592687585::1714008537::1727227606::1::::<><>::
+winter_tree_1.png::CompressedTexture2D::1145039716225950421::1714008537::1727227606::1::::<><>::
+winter_tree_2.png::CompressedTexture2D::8896112215167888393::1714008537::1727227606::1::::<><>::
+winter_tree_3.png::CompressedTexture2D::5502234774412773900::1714008537::1727227606::1::::<><>::
+winter_tree_4.png::CompressedTexture2D::237117286123232497::1714008537::1727227606::1::::<><>::
+winter_tree_5.png::CompressedTexture2D::8704415680992784906::1714008537::1727227606::1::::<><>::
+winter_tree_6.png::CompressedTexture2D::2271940385035929095::1714008537::1727227606::1::::<><>::
+winter_tree_7.png::CompressedTexture2D::4420851067691225035::1714008537::1727227606::1::::<><>::
+winter_tree_8.png::CompressedTexture2D::828328127205435310::1714008537::1727227606::1::::<><>::
+winter_tree_9.png::CompressedTexture2D::4852326041761710300::1714008537::1727227606::1::::<><>::
+winter_tree_10.png::CompressedTexture2D::6965442478662382591::1714008537::1727227606::1::::<><>::
+::res://AssetsDescargados/freetileset/png/Object/::1713586421
+Bush (1).png::CompressedTexture2D::6511556439635663964::1713586419::1727227606::1::::<><>::
+Bush (2).png::CompressedTexture2D::8381989136360666469::1713586419::1727227606::1::::<><>::
+Bush (3).png::CompressedTexture2D::8508660889966519555::1713586419::1727227606::1::::<><>::
+Bush (4).png::CompressedTexture2D::9166688251409436195::1713586419::1727227606::1::::<><>::
+Crate.png::CompressedTexture2D::5907184097396176174::1713586419::1727227606::1::::<><>::
+Mushroom_1.png::CompressedTexture2D::802806088719097393::1713586419::1727227606::1::::<><>::
+Mushroom_2.png::CompressedTexture2D::2176819071348559652::1713586419::1727227606::1::::<><>::
+Sign_1.png::CompressedTexture2D::2012833654191999542::1713586419::1727227606::1::::<><>::
+Sign_2.png::CompressedTexture2D::2392680684466768486::1713586419::1727227606::1::::<><>::
+Stone.png::CompressedTexture2D::1430529416522480491::1713586419::1727227602::1::::<><>::
+Tree_1.png::CompressedTexture2D::425214057802770656::1713586419::1727227602::1::::<><>::
+Tree_2.png::CompressedTexture2D::4656069553525263954::1713586419::1727227602::1::::<><>::
+Tree_3.png::CompressedTexture2D::601610396023129724::1713586419::1727227602::1::::<><>::
+::res://AssetsDescargados/freetileset/png/Tiles/::1713586422
+1.png::CompressedTexture2D::6530979648120142759::1713586419::1727227602::1::::<><>::
+2.png::CompressedTexture2D::1258500378327786921::1713586419::1727227602::1::::<><>::
+3.png::CompressedTexture2D::6467372312029643075::1713586419::1727227602::1::::<><>::
+4.png::CompressedTexture2D::4268772785938766453::1713586419::1727227602::1::::<><>::
+5.png::CompressedTexture2D::2072468302141697437::1713586419::1727227602::1::::<><>::
+6.png::CompressedTexture2D::2238231688046314118::1713586419::1727227602::1::::<><>::
+7.png::CompressedTexture2D::6088457057035458062::1713586419::1727227602::1::::<><>::
+8.png::CompressedTexture2D::5916391901728395622::1713586419::1727227602::1::::<><>::
+9.png::CompressedTexture2D::2784148475808631395::1713586419::1727227602::1::::<><>::
+10.png::CompressedTexture2D::1736648623880012083::1713586419::1727227602::1::::<><>::
+11.png::CompressedTexture2D::4377001396488120781::1713586419::1727227602::1::::<><>::
+12.png::CompressedTexture2D::7502560256619432068::1713586419::1727227602::1::::<><>::
+13.png::CompressedTexture2D::6712007590513623456::1713586419::1727227602::1::::<><>::
+14.png::CompressedTexture2D::3244993034942056341::1713586419::1727227602::1::::<><>::
+15.png::CompressedTexture2D::5164770615541063367::1713586419::1727227602::1::::<><>::
+16.png::CompressedTexture2D::6855674185611201013::1713586419::1727227602::1::::<><>::
+17.png::CompressedTexture2D::6719734643213383084::1713586419::1727227602::1::::<><>::
+18.png::CompressedTexture2D::5340859780107186214::1713586419::1727227602::1::::<><>::
+::res://AssetsDescargados/freetileset/svg/::1713586421
+Sample.svg::CompressedTexture2D::363469832967700499::1713586419::1727227602::1::::<><>::
+Tile.svg::CompressedTexture2D::701002008585729869::1713586419::1727227602::1::::<><>::
+::res://AssetsDescargados/Glacial-mountains-parallax-background_vnitti_v3/::1713892660
+::res://AssetsDescargados/Glacial-mountains-parallax-background_vnitti_v3/Glacial-mountains-parallax-background_vnitti/::1713892677
+background_glacial_mountains.png::CompressedTexture2D::1544780810714220243::1713892660::1727227602::1::::<><>::
+background_glacial_mountains_lightened.png::CompressedTexture2D::8938396285896756246::1713892660::1727227602::1::::<><>::
+Glacial_Mountains-Cover.png::CompressedTexture2D::7094068184895260558::1713892660::1727227602::1::::<><>::
+Readme.txt::TextFile::-1::1713892660::0::1::::<><>::
+::res://AssetsDescargados/Glacial-mountains-parallax-background_vnitti_v3/Glacial-mountains-parallax-background_vnitti/Layers/::1713892677
+clouds_bg.png::CompressedTexture2D::7048228121004118060::1713892660::1727227602::1::::<><>::
+clouds_mg_1.png::CompressedTexture2D::6827179301056251095::1713892660::1727227602::1::::<><>::
+clouds_mg_1_lightened.png::CompressedTexture2D::2625677650846058680::1713892660::1727227602::1::::<><>::
+clouds_mg_2.png::CompressedTexture2D::5727158037742710595::1713892660::1727227601::1::::<><>::
+clouds_mg_3.png::CompressedTexture2D::1982962707547785980::1713892660::1727227601::1::::<><>::
+cloud_lonely.png::CompressedTexture2D::509460175840879862::1713892660::1727227601::1::::<><>::
+glacial_mountains.png::CompressedTexture2D::6483411051928854289::1713892660::1727227601::1::::<><>::
+glacial_mountains_lightened.png::CompressedTexture2D::2582363250129161695::1713892660::1727227602::1::::<><>::
+sky.png::CompressedTexture2D::2870136694162741624::1713892660::1727227602::1::::<><>::
+sky_lightened.png::CompressedTexture2D::8076038836269369165::1713892660::1727227602::1::::<><>::
+::res://AssetsDescargados/Glacial-mountains-parallax-background_vnitti_v3/Glacial-mountains-parallax-background_vnitti/PSD/::1713892660
+::res://AssetsDescargados/graveyardtilesetnew/::1713586426
+::res://AssetsDescargados/graveyardtilesetnew/png/::1713586426
+BG.png::CompressedTexture2D::2593436960043419755::1713586425::1727227602::1::::<><>::
+::res://AssetsDescargados/graveyardtilesetnew/png/Objects/::1713586428
+ArrowSign.png::CompressedTexture2D::8457685434482056803::1713586425::1727227602::1::::<><>::
+Bush (1).png::CompressedTexture2D::7895057570618634352::1713586425::1727227602::1::::<><>::
+Bush (2).png::CompressedTexture2D::173760743834082376::1713586425::1727227602::1::::<><>::
+Crate.png::CompressedTexture2D::330809935855230569::1713586425::1727227602::1::::<><>::
+DeadBush.png::CompressedTexture2D::9064925354677921576::1713586425::1727227602::1::::<><>::
+Sign.png::CompressedTexture2D::7563094816951239024::1713586425::1727227602::1::::<><>::
+Skeleton.png::CompressedTexture2D::7795856514000475024::1713586425::1727227602::1::::<><>::
+TombStone (1).png::CompressedTexture2D::4799973945122826243::1713586425::1727227602::1::::<><>::
+TombStone (2).png::CompressedTexture2D::212231357378568153::1713586425::1727227602::1::::<><>::
+Tree.png::CompressedTexture2D::3343188772858315001::1713586425::1727227602::1::::<><>::
+::res://AssetsDescargados/graveyardtilesetnew/png/Tiles/::1713586427
+Bone (1).png::CompressedTexture2D::4127369519794907010::1713586425::1727227602::1::::<><>::
+Bone (2).png::CompressedTexture2D::4901873994715092997::1713586425::1727227602::1::::<><>::
+Bone (3).png::CompressedTexture2D::3791875110105352125::1713586425::1727227602::1::::<><>::
+Bone (4).png::CompressedTexture2D::2410516007804401999::1713586425::1727227602::1::::<><>::
+Tile (1).png::CompressedTexture2D::166665120599627051::1713586425::1727227602::1::::<><>::
+Tile (2).png::CompressedTexture2D::8525042525823512503::1713586426::1727227602::1::::<><>::
+Tile (3).png::CompressedTexture2D::1923020575196941377::1713586426::1727227602::1::::<><>::
+Tile (4).png::CompressedTexture2D::4160670634564059644::1713586426::1727227602::1::::<><>::
+Tile (5).png::CompressedTexture2D::2912574112817624728::1713586426::1727227602::1::::<><>::
+Tile (6).png::CompressedTexture2D::7864342233128520330::1713586426::1727227602::1::::<><>::
+Tile (7).png::CompressedTexture2D::3502391085734355385::1713586426::1727227602::1::::<><>::
+Tile (8).png::CompressedTexture2D::3969425779917948529::1713586426::1727227602::1::::<><>::
+Tile (9).png::CompressedTexture2D::100274236318789611::1713586426::1727227602::1::::<><>::
+Tile (10).png::CompressedTexture2D::7694972689150190867::1713586425::1727227602::1::::<><>::
+Tile (11).png::CompressedTexture2D::7175052139328741489::1713586425::1727227602::1::::<><>::
+Tile (12).png::CompressedTexture2D::3669354836839460740::1713586425::1727227601::1::::<><>::
+Tile (13).png::CompressedTexture2D::107267273001478181::1713586425::1727227601::1::::<><>::
+Tile (14).png::CompressedTexture2D::3191119271698757436::1713586425::1727227601::1::::<><>::
+Tile (15).png::CompressedTexture2D::3184089134733941013::1713586425::1727227601::1::::<><>::
+Tile (16).png::CompressedTexture2D::1953539303724655893::1713586425::1727227601::1::::<><>::
+::res://AssetsDescargados/graveyardtilesetnew/vector/::1713586426
+Tile.svg::CompressedTexture2D::4038157746986471602::1713586426::1727227602::1::::<><>::
+::res://AssetsDescargados/monogram/::1710870905
+::res://AssetsDescargados/monogram/monogram/::1710870905
+credits.txt::TextFile::-1::1710870905::0::1::::<><>::
+::res://AssetsDescargados/monogram/monogram/bitmap/::1713586415
+monogram-bitfontmaker.json::JSON::-1::1710870905::0::1::::<><>::
+monogram-bitmap.json::JSON::-1::1710870905::0::1::::<><>::
+monogram-bitmap.png::CompressedTexture2D::2421265977046912327::1710870905::1727227601::1::::<><>::
+monogram-italic-bitmap.png::CompressedTexture2D::6992942820984488379::1710870905::1727227601::1::::<><>::
+::res://AssetsDescargados/monogram/monogram/pico-8/::1710870905
+::res://AssetsDescargados/monogram/monogram/ttf/::1710870905
+monogram-extended-italic.ttf::FontFile::6963176269205170726::1710870905::1727227601::1::::<><>::
+monogram-extended.ttf::FontFile::7344931256206755442::1710870905::1727227601::1::::<><>::
+monogram.ttf::FontFile::4774950774972526928::1710870905::1727227601::1::::<><>::
+::res://AssetsDescargados/Orbe/::1715042109
+pixil-frame-0 (1).png::CompressedTexture2D::5002491920641472061::1715042108::1727227601::1::::<><>::
+pixil-frame-0 (2).png::CompressedTexture2D::6470647257051379893::1715042108::1727227601::1::::<><>::
+pixil-frame-0 (3).png::CompressedTexture2D::360538407370575474::1715042108::1727227601::1::::<><>::
+pixil-frame-0.png::CompressedTexture2D::8201564558724698017::1715042108::1727227601::1::::<><>::
+::res://AssetsDescargados/PAID VERSION/::1713592240
+Build.png::CompressedTexture2D::6240069317737546624::1713592238::1727227603::1::::<><>::
+Hey! Redme!.txt::TextFile::-1::1713592238::0::1::::<><>::
+::res://AssetsDescargados/PAID VERSION/Backgrounds/::1713592240
+bg_00.png::CompressedTexture2D::8867847011792422280::1713592238::1727227601::1::::<><>::
+bg_01.png::CompressedTexture2D::3985869346207147740::1713592238::1727227601::1::::<><>::
+bg_02.png::CompressedTexture2D::1331042821746379303::1713592238::1727227601::1::::<><>::
+bg_03.png::CompressedTexture2D::4612473636626482587::1713592238::1727227601::1::::<><>::
+bg_04.png::CompressedTexture2D::370819865858899842::1713592238::1727227601::1::::<><>::
+::res://AssetsDescargados/PAID VERSION/Decor/::1713592241
+16x16spr_fan_strip4.png::CompressedTexture2D::2160160380733753920::1713592238::1727227601::1::::<><>::
+16x16_spr_power_s_purple_strip13.png::CompressedTexture2D::2668622782717271814::1713592238::1727227601::1::::<><>::
+16x16_spr_power_s_white_strip13.png::CompressedTexture2D::6884855746168506549::1713592238::1727227601::1::::<><>::
+17x17_spr_heart_strip5.png::CompressedTexture2D::7059360132446646711::1713592238::1727227601::1::::<><>::
+32x32_spr_fire_barrel_strip6.png::CompressedTexture2D::6554507927074149478::1713592238::1727227601::1::::<><>::
+32x32_spr_hamburger_strip4.png::CompressedTexture2D::7737696037340214597::1713592238::1727227601::1::::<><>::
+64x16_spr_graffiti_04_strip4.png::CompressedTexture2D::3341025541232751274::1713592238::1727227601::1::::<><>::
+64x32_sprMovingPlatform_strip8.png::CompressedTexture2D::6613739179063427610::1713592238::1727227601::1::::<><>::
+64x32_spr_drinks_strip7.png::CompressedTexture2D::1536903673164144721::1713592238::1727227601::1::::<><>::
+64x32_spr_graffiti_01_strip4.png::CompressedTexture2D::7788128506692061586::1713592238::1727227601::1::::<><>::
+64x32_spr_graffiti_03_strip4.png::CompressedTexture2D::3052894012552682006::1713592238::1727227601::1::::<><>::
+80x16_spr_hamburguer_sign_strip62.png::CompressedTexture2D::837757885393610018::1713592238::1727227601::1::::<><>::
+80x32_spr_graffiti_02_strip4.png::CompressedTexture2D::2719145425324383677::1713592238::1727227601::1::::<><>::
+105x54_spr_truck_strip6.png::CompressedTexture2D::9018317231176101795::1713592238::1727227601::1::::<><>::
+144x32_spr_heaven_sign_strip6.png::CompressedTexture2D::9171946076178494094::1713592238::1727227601::1::::<><>::
+170x32_spr_heaven_sign_02_strip4.png::CompressedTexture2D::2267914065453646119::1713592238::1727227601::1::::<><>::
+170x32_spr_market_sign_strip5.png::CompressedTexture2D::2991683075777644913::1713592238::1727227601::1::::<><>::
+170x32_spr_police_sign_strip4.png::CompressedTexture2D::1903285491198135876::1713592238::1727227601::1::::<><>::
+170x32_spr_yellow_sign_strip4.png::CompressedTexture2D::4901777507957400127::1713592238::1727227601::1::::<><>::
+184x16_spr_bus_stop_anim_strip77.png::CompressedTexture2D::5888060053907768195::1713592238::1727227601::1::::<><>::
+spr_bus.png::CompressedTexture2D::8830731490539203308::1713592238::1727227603::1::::<><>::
+::res://AssetsDescargados/PAID VERSION/Decor/Stuffs/::1713592241
+17x13_spr_eye_strip8.png::CompressedTexture2D::5160796392885414458::1713592238::1727227601::1::::<><>::
+32x32_tree_animated_strip7.png::CompressedTexture2D::5771820648113713903::1713592238::1727227601::1::::<><>::
+34x38_spr_antena_01_strip10.png::CompressedTexture2D::3057354067351580413::1713592238::1727227601::1::::<><>::
+64x64_float_sign_empty.png::CompressedTexture2D::7053283573143533586::1713592238::1727227601::1::::<><>::
+64x64_float_sign_example_strip16.png::CompressedTexture2D::839367696981609999::1713592238::1727227601::1::::<><>::
+64x64_moon.png::CompressedTexture2D::1990653444691670895::1713592238::1727227601::1::::<><>::
+64x64_stuffs_strip13.png::CompressedTexture2D::1832573910800311999::1713592238::1727227601::1::::<><>::
+64x64_tree_animated_strip7.png::CompressedTexture2D::644428304050966341::1713592238::1727227601::1::::<><>::
+64x64_tv_01_example_animated_strip47.png::CompressedTexture2D::7565534582586571386::1713592238::1727227601::1::::<><>::
+120x86_smoke_strip30.png::CompressedTexture2D::5690216104665790523::1713592238::1727227601::1::::<><>::
+sign_01_animated_example_strip9.png::CompressedTexture2D::3213715119763964466::1713592238::1727227601::1::::<><>::
+sign_02_animated_example_strip6.png::CompressedTexture2D::2286799888892726105::1713592238::1727227601::1::::<><>::
+sign_builder_strip4.png::CompressedTexture2D::635843085448686343::1713592238::1727227601::1::::<><>::
+spr_sign.png::CompressedTexture2D::9103264239146976160::1713592238::1727227601::1::::<><>::
+spr_tv_01.png::CompressedTexture2D::6493157930353029026::1713592238::1727227601::1::::<><>::
+::res://AssetsDescargados/PAID VERSION/Green/::1713592239
+16x16_spr_power_s_green_strip13.png::CompressedTexture2D::8866110677789979039::1713592238::1727227603::1::::<><>::
+80x16_spr_green_clean_sign_strip4.png::CompressedTexture2D::4207076797197156689::1713592238::1727227603::1::::<><>::
+80x16_spr_green_sign_strip4.png::CompressedTexture2D::7578104511477985342::1713592238::1727227603::1::::<><>::
+spr_green.png::CompressedTexture2D::3051747942620545839::1713592238::1727227603::1::::<><>::
+::res://AssetsDescargados/PAID VERSION/Market/::1713592239
+240x112_spr_mini_market.png::CompressedTexture2D::5808863307694424152::1713592238::1727227603::1::::<><>::
+::res://AssetsDescargados/PAID VERSION/Npcs/::1713592239
+32x32_spr_alien_01_strip10.png::CompressedTexture2D::9071836483551313132::1713592238::1727227603::1::::<><>::
+32x32_spr_alien_03.png::CompressedTexture2D::2073666481093837747::1713592238::1727227603::1::::<><>::
+32x32_spr_alien_04.png::CompressedTexture2D::3406203330032430361::1713592238::1727227603::1::::<><>::
+32x32_spr_alien_05_strip24.png::CompressedTexture2D::7226042495926758973::1713592238::1727227603::1::::<><>::
+32x32_spr_alien_06_strip14.png::CompressedTexture2D::8851632111105680359::1713592238::1727227603::1::::<><>::
+32x32_spr_alien_07_strip4.png::CompressedTexture2D::2628372884096288519::1713592238::1727227603::1::::<><>::
+32x32_spr_alien_08_strip4.png::CompressedTexture2D::3804780949698996248::1713592238::1727227603::1::::<><>::
+34x34_spr_alien_02_strip10.png::CompressedTexture2D::880730009375319017::1713592238::1727227603::1::::<><>::
+::res://AssetsDescargados/PAID VERSION/Police/::1713592239
+224x192_spr_police_station_strip6.png::CompressedTexture2D::208205235051705502::1713592238::1727227603::1::::<><>::
+::res://AssetsDescargados/PAID VERSION/Purple/::1713592240
+16x16_spr_fan_strip4.png::CompressedTexture2D::1945492581378652216::1713592238::1727227603::1::::<><>::
+16x16_spr_power_s_purple_strip13.png::CompressedTexture2D::1053525824187558903::1713592238::1727227603::1::::<><>::
+32x32_spr_hamburger_strip4.png::CompressedTexture2D::8162788591707013670::1713592238::1727227603::1::::<><>::
+80x16_spr_hamburguer_sign_strip62.png::CompressedTexture2D::2775477436782508043::1713592238::1727227603::1::::<><>::
+160x112_spr_purple_strip4.png::CompressedTexture2D::3641789722048994557::1713592238::1727227603::1::::<><>::
+::res://AssetsDescargados/PAID VERSION/Tile/::1713592240
+spr_tile_decor.png::CompressedTexture2D::5482237590665403828::1713592238::1727227603::1::::<><>::
+spr_tile_floor_and_walls.png::CompressedTexture2D::6919944408369886257::1713592238::1727227603::1::::<><>::
+spr_tile_platform.png::CompressedTexture2D::3453093578041515974::1713592238::1727227603::1::::<><>::
+::res://AssetsDescargados/PAID VERSION/White/::1713592240
+spr_the_heaver_bar.png::CompressedTexture2D::328493775210143006::1713592238::1727227603::1::::<><>::
+::res://AssetsDescargados/parallax_mountain_pack/::1713883716
+utomp3.com - Peso Vivaldi  Lady Gaga.mp3::AudioStreamMP3::5432560646350736447::1713883715::1727227601::1::::<><>::
+::res://AssetsDescargados/parallax_mountain_pack/__MACOSX/::1713822086
+::res://AssetsDescargados/parallax_mountain_pack/__MACOSX/parallax_mountain_pack/::1713822086
+._license.txt::TextFile::-1::1713822086::0::1::::<><>::
+::res://AssetsDescargados/parallax_mountain_pack/__MACOSX/parallax_mountain_pack/layers/::1717545355
+._parallax-mountain-bg.png::CompressedTexture2D::7601464558176885383::1713822086::1727227601::0::::<><>::
+._parallax-mountain-foreground-trees.png::CompressedTexture2D::8687207221987846842::1713822086::1727227601::0::::<><>::
+._parallax-mountain-montain-far.png::CompressedTexture2D::8149586961401100561::1713822086::1727227601::0::::<><>::
+._parallax-mountain-mountains.png::CompressedTexture2D::6153460801520488618::1713822086::1727227601::0::::<><>::
+._parallax-mountain-trees.png::CompressedTexture2D::3386510405774281006::1713822086::1727227601::0::::<><>::
+::res://AssetsDescargados/parallax_mountain_pack/parallax_mountain_pack/::1713822086
+license.txt::TextFile::-1::1713822086::0::1::::<><>::
+::res://AssetsDescargados/parallax_mountain_pack/parallax_mountain_pack/layers/::1713822086
+parallax-mountain-bg.png::CompressedTexture2D::5530557756674720144::1713822086::1727227603::1::::<><>::
+parallax-mountain-foreground-trees.png::CompressedTexture2D::4013061858836333561::1713822086::1727227603::1::::<><>::
+parallax-mountain-montain-far.png::CompressedTexture2D::4186980726769533740::1713822086::1727227603::1::::<><>::
+parallax-mountain-mountains.png::CompressedTexture2D::8744536311728191758::1713822086::1727227603::1::::<><>::
+parallax-mountain-trees.png::CompressedTexture2D::5458564448240799101::1713822086::1727227603::1::::<><>::
+::res://AssetsDescargados/PNG/::1714008569
+birch_1.png::CompressedTexture2D::8147859950309636700::1714008556::1727227603::1::::<><>::
+birch_2.png::CompressedTexture2D::580182539138584825::1714008556::1727227603::1::::<><>::
+birch_3.png::CompressedTexture2D::5140561294900086874::1714008556::1727227603::1::::<><>::
+birch_4.png::CompressedTexture2D::9210637253530326459::1714008556::1727227603::1::::<><>::
+birch_5.png::CompressedTexture2D::7577114548080392459::1714008556::1727227603::1::::<><>::
+birch_6.png::CompressedTexture2D::1451469287505767934::1714008556::1727227603::1::::<><>::
+birch_7.png::CompressedTexture2D::4448695240214155929::1714008556::1727227603::1::::<><>::
+birch_8.png::CompressedTexture2D::8938739348059382421::1714008556::1727227603::1::::<><>::
+birch_9.png::CompressedTexture2D::3316568337390313792::1714008556::1727227603::1::::<><>::
+birch_10.png::CompressedTexture2D::7625079931895382113::1714008556::1727227603::1::::<><>::
+birch_11.png::CompressedTexture2D::1840401865145163034::1714008556::1727227603::1::::<><>::
+birch_12.png::CompressedTexture2D::3611186136499053801::1714008556::1727227603::1::::<><>::
+fir_tree_1.png::CompressedTexture2D::6641406162738566430::1714008556::1727227603::1::::<><>::
+fir_tree_2.png::CompressedTexture2D::829523265124557771::1714008556::1727227603::1::::<><>::
+fir_tree_3.png::CompressedTexture2D::2749537879805268181::1714008556::1727227603::1::::<><>::
+fir_tree_4.png::CompressedTexture2D::1600202465471010638::1714008556::1727227603::1::::<><>::
+fir_tree_5.png::CompressedTexture2D::6211511541385783295::1714008556::1727227603::1::::<><>::
+fir_tree_6.png::CompressedTexture2D::5259552681644078786::1714008556::1727227603::1::::<><>::
+fir_tree_7.png::CompressedTexture2D::2013839587666569122::1714008556::1727227603::1::::<><>::
+fir_tree_8.png::CompressedTexture2D::6284378914994572703::1714008556::1727227603::1::::<><>::
+fir_tree_9.png::CompressedTexture2D::1281385722914716728::1714008556::1727227603::1::::<><>::
+fir_tree_10.png::CompressedTexture2D::7596243483326061201::1714008556::1727227603::1::::<><>::
+fir_tree_11.png::CompressedTexture2D::7606743748060212059::1714008556::1727227603::1::::<><>::
+jungle_tree_1.png::CompressedTexture2D::5715893205925696465::1714008556::1727227603::1::::<><>::
+jungle_tree_2.png::CompressedTexture2D::7753761158330547493::1714008556::1727227603::1::::<><>::
+jungle_tree_3.png::CompressedTexture2D::6396650817537875755::1714008556::1727227603::1::::<><>::
+jungle_tree_4.png::CompressedTexture2D::3198884572342987329::1714008556::1727227603::1::::<><>::
+jungle_tree_5.png::CompressedTexture2D::6255026614695338940::1714008556::1727227603::1::::<><>::
+jungle_tree_6.png::CompressedTexture2D::8954538477976538967::1714008556::1727227603::1::::<><>::
+jungle_tree_7.png::CompressedTexture2D::920457739879639486::1714008556::1727227603::1::::<><>::
+jungle_tree_8.png::CompressedTexture2D::3171174127286766699::1714008556::1727227602::1::::<><>::
+jungle_tree_9.png::CompressedTexture2D::6901672296209559539::1714008556::1727227602::1::::<><>::
+jungle_tree_10.png::CompressedTexture2D::3809910125343718579::1714008556::1727227602::1::::<><>::
+jungle_tree_11.png::CompressedTexture2D::4144398524617967990::1714008556::1727227602::1::::<><>::
+jungle_tree_12.png::CompressedTexture2D::9211854364394983867::1714008556::1727227602::1::::<><>::
+jungle_tree_13.png::CompressedTexture2D::1852134946911925099::1714008556::1727227602::1::::<><>::
+jungle_tree_14.png::CompressedTexture2D::2010717627669114293::1714008556::1727227602::1::::<><>::
+middle_lane_tree1.png::CompressedTexture2D::1281258853843734908::1714008556::1727227602::1::::<><>::
+middle_lane_tree2.png::CompressedTexture2D::1989767342294061232::1714008556::1727227602::1::::<><>::
+middle_lane_tree3.png::CompressedTexture2D::7388295986048385207::1714008556::1727227602::1::::<><>::
+middle_lane_tree4.png::CompressedTexture2D::1603887501298350965::1714008556::1727227602::1::::<><>::
+middle_lane_tree5.png::CompressedTexture2D::1211417635750967892::1714008556::1727227602::1::::<><>::
+middle_lane_tree6.png::CompressedTexture2D::3380242576889956499::1714008556::1727227602::1::::<><>::
+middle_lane_tree7.png::CompressedTexture2D::5662402750180993123::1714008556::1727227602::1::::<><>::
+middle_lane_tree8.png::CompressedTexture2D::8270418968364126360::1714008556::1727227602::1::::<><>::
+middle_lane_tree9.png::CompressedTexture2D::9145873751519323751::1714008556::1727227602::1::::<><>::
+middle_lane_tree10.png::CompressedTexture2D::2504352992016234331::1714008556::1727227602::1::::<><>::
+middle_lane_tree11.png::CompressedTexture2D::6484014664592049188::1714008556::1727227602::1::::<><>::
+winter_conifer_tree_1.png::CompressedTexture2D::8063992225871113322::1714008556::1727227602::1::::<><>::
+winter_conifer_tree_2.png::CompressedTexture2D::7907445792729521115::1714008556::1727227602::1::::<><>::
+winter_conifer_tree_3.png::CompressedTexture2D::8820092371122800792::1714008556::1727227602::1::::<><>::
+winter_conifer_tree_4.png::CompressedTexture2D::2378422484911203354::1714008556::1727227602::1::::<><>::
+winter_conifer_tree_5.png::CompressedTexture2D::2912154312869417903::1714008556::1727227602::1::::<><>::
+winter_conifer_tree_6.png::CompressedTexture2D::7871103450992518198::1714008556::1727227602::1::::<><>::
+winter_conifer_tree_7.png::CompressedTexture2D::2490274263820984499::1714008556::1727227602::1::::<><>::
+winter_conifer_tree_8.png::CompressedTexture2D::8892811324736475625::1714008556::1727227602::1::::<><>::
+winter_conifer_tree_9.png::CompressedTexture2D::2656896811379080921::1714008556::1727227602::1::::<><>::
+winter_conifer_tree_10.png::CompressedTexture2D::3706791432116230705::1714008556::1727227602::1::::<><>::
+winter_conifer_tree_11.png::CompressedTexture2D::646333092877795440::1714008556::1727227602::1::::<><>::
+winter_conifer_tree_12.png::CompressedTexture2D::3258001250410875241::1714008556::1727227603::1::::<><>::
+winter_tree_1.png::CompressedTexture2D::1692083503125204065::1714008556::1727227603::1::::<><>::
+winter_tree_2.png::CompressedTexture2D::6597702431861040282::1714008556::1727227603::1::::<><>::
+winter_tree_3.png::CompressedTexture2D::4769266887691875316::1714008556::1727227603::1::::<><>::
+winter_tree_4.png::CompressedTexture2D::61863964381850548::1714008556::1727227603::1::::<><>::
+winter_tree_5.png::CompressedTexture2D::1434153733377332088::1714008556::1727227603::1::::<><>::
+winter_tree_6.png::CompressedTexture2D::1015859776162989823::1714008556::1727227603::1::::<><>::
+winter_tree_7.png::CompressedTexture2D::2679712663681076571::1714008556::1727227603::1::::<><>::
+winter_tree_8.png::CompressedTexture2D::6445605537509792204::1714008556::1727227603::1::::<><>::
+winter_tree_9.png::CompressedTexture2D::457967462866209525::1714008556::1727227603::1::::<><>::
+winter_tree_10.png::CompressedTexture2D::8246824640874896671::1714008556::1727227603::1::::<><>::
+::res://AssetsDescargados/Super Mountain Dusk Files/::1713822055
+::res://AssetsDescargados/Super Mountain Dusk Files/__MACOSX/::1713822055
+::res://AssetsDescargados/Super Mountain Dusk Files/__MACOSX/Super Mountain Dusk Files/::1713822055
+::res://AssetsDescargados/Super Mountain Dusk Files/__MACOSX/Super Mountain Dusk Files/Aseprite/::1713822055
+::res://AssetsDescargados/Super Mountain Dusk Files/Super Mountain Dusk Files/::1713822055
+public-license.txt::TextFile::-1::1713822055::0::1::::<><>::
+::res://AssetsDescargados/Super Mountain Dusk Files/Super Mountain Dusk Files/Aseprite/::1713822055
+::res://AssetsDescargados/Super Mountain Dusk Files/Super Mountain Dusk Files/Layers/::1713822074
+far-clouds.png::CompressedTexture2D::8859307217122193821::1713822055::1727227603::1::::<><>::
+far-mountains.png::CompressedTexture2D::718510120723453626::1713822055::1727227603::1::::<><>::
+mountains.png::CompressedTexture2D::510281273359806708::1713822055::1727227603::1::::<><>::
+near-clouds.png::CompressedTexture2D::2469787322401525647::1713822055::1727227603::1::::<><>::
+sky.png::CompressedTexture2D::4662926949997651100::1713822055::1727227603::1::::<><>::
+trees.png::CompressedTexture2D::8489922448572300120::1713822055::1727227603::1::::<><>::
+::res://AssetsDescargados/Super Mountain Dusk Files/Super Mountain Dusk Files/Previews/::1713822074
+Mountain-Dusk.png::CompressedTexture2D::8040484480576524858::1713822055::1727227602::1::::<><>::
+::res://Demo/::1717253790
+index.apple-touch-icon.png::CompressedTexture2D::3655271824013524711::1717253670::1727227602::1::::<><>::
+index.icon.png::CompressedTexture2D::4573945794356854240::1717253670::1727227602::1::::<><>::
+index.png::CompressedTexture2D::4879885917779433028::1717253670::1727227603::1::::<><>::
+::res://myTiles/::1717215829
+Campo.tres::TileSet::-1::1727227566::0::1::::<><>::res://AssetsDescargados/freetileset/png/Tiles/11.png<>res://AssetsDescargados/freetileset/png/Tiles/14.png<>res://AssetsDescargados/freetileset/png/Tiles/1.png<>res://AssetsDescargados/freetileset/png/Tiles/13.png<>res://AssetsDescargados/freetileset/png/Tiles/2.png<>res://AssetsDescargados/freetileset/png/Tiles/17.png<>res://AssetsDescargados/freetileset/png/Tiles/3.png<>res://AssetsDescargados/freetileset/png/Tiles/5.png<>res://AssetsDescargados/freetileset/png/Tiles/15.png<>res://AssetsDescargados/freetileset/png/Tiles/7.png<>res://AssetsDescargados/PNG/birch_1.png
+Pantano.tres::TileSet::-1::1727227566::0::1::::<><>::res://AssetsDescargados/graveyardtilesetnew/png/Tiles/Tile (14).png<>res://AssetsDescargados/graveyardtilesetnew/png/Tiles/Tile (7).png<>res://AssetsDescargados/graveyardtilesetnew/png/Tiles/Tile (11).png<>res://AssetsDescargados/graveyardtilesetnew/png/Tiles/Tile (15).png<>res://AssetsDescargados/graveyardtilesetnew/png/Tiles/Tile (16).png<>res://AssetsDescargados/graveyardtilesetnew/png/Tiles/Tile (6).png<>res://AssetsDescargados/graveyardtilesetnew/png/Tiles/Tile (3).png<>res://AssetsDescargados/graveyardtilesetnew/png/Tiles/Tile (4).png<>res://AssetsDescargados/graveyardtilesetnew/png/Tiles/Tile (5).png<>res://AssetsDescargados/graveyardtilesetnew/png/Tiles/Tile (2).png
+::res://Niveles/::1717253629
+Heros.png::CompressedTexture2D::1518238776264275512::1714096531::1727227603::1::::<><>::
+LifeCounter.gd::GDScript::-1::1727227566::0::1::::<>Label<>::
+primerNivel.tscn::PackedScene::-1::1727227566::0::1::::<><>::res://Hero.tscn<>res://myTiles/Campo.tres<>res://AssetsDescargados/parallax_mountain_pack/parallax_mountain_pack/layers/parallax-mountain-bg.png<>res://AssetsDescargados/Super Mountain Dusk Files/Super Mountain Dusk Files/Layers/trees.png<>res://AssetsDescargados/Super Mountain Dusk Files/Super Mountain Dusk Files/Layers/mountains.png<>res://Enemy.tscn<>res://Puerta.tscn<>res://Puerta2.gd<>res://Orbe.tscn<>res://Arbol.tscn
+segundoNivel.tscn::PackedScene::-1::1727227566::0::1::::<><>::res://Hero.tscn<>res://myTiles/Pantano.tres<>res://AssetsDescargados/Free-Summer-Pixel-Art-Backgrounds/PNG/summer 3/3.png<>res://AssetsDescargados/Free-Summer-Pixel-Art-Backgrounds/PNG/summer 3/4.png<>res://Enemy.tscn<>res://AssetsDescargados/Free-Summer-Pixel-Art-Backgrounds/PNG/summer 3/2.png<>res://AssetsDescargados/Free-Summer-Pixel-Art-Backgrounds/PNG/summer 3/1.png<>res://Arbol2.tscn<>res://Orbe.tscn<>res://Puerta.tscn<>res://Puerta3.gd
+tercerNivel.tscn::PackedScene::-1::1727227566::0::1::::<><>::res://AssetsDescargados/free-city-backgrounds-pixel-art/city 8/2.png<>res://AssetsDescargados/free-city-backgrounds-pixel-art/city 8/5.png<>res://AssetsDescargados/free-city-backgrounds-pixel-art/city 8/4.png<>res://AssetsDescargados/free-city-backgrounds-pixel-art/city 8/3.png<>res://AssetsDescargados/free-city-backgrounds-pixel-art/city 8/1.png<>res://Platformer 2D TilesSet #1 64x64.png<>res://Edificio.tscn<>res://Hero.tscn<>res://Orbe.tscn<>res://Bandera.tscn<>res://Enemy.tscn

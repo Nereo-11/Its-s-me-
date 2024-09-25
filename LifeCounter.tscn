@@ -1,0 +1,10 @@
+[gd_scene load_steps=2 format=2]
+
+[ext_resource path="res://Niveles/LifeCounter.gd" type="Script" id=1]
+
+[node name="LifeCounter" type="Label"]
+offset_left = -486.0
+offset_top = -456.0
+offset_right = -252.0
+offset_bottom = -328.0
+script = ExtResource( 1 )

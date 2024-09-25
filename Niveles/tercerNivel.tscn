@@ -1,0 +1,137 @@
+[gd_scene load_steps=14 format=2]
+
+[ext_resource path="res://AssetsDescargados/free-city-backgrounds-pixel-art/city 8/2.png" type="Texture2D" id=1]
+[ext_resource path="res://AssetsDescargados/free-city-backgrounds-pixel-art/city 8/5.png" type="Texture2D" id=2]
+[ext_resource path="res://AssetsDescargados/free-city-backgrounds-pixel-art/city 8/4.png" type="Texture2D" id=3]
+[ext_resource path="res://AssetsDescargados/free-city-backgrounds-pixel-art/city 8/3.png" type="Texture2D" id=4]
+[ext_resource path="res://AssetsDescargados/free-city-backgrounds-pixel-art/city 8/1.png" type="Texture2D" id=5]
+[ext_resource path="res://Platformer 2D TilesSet #1 64x64.png" type="Texture2D" id=6]
+[ext_resource path="res://Edificio.tscn" type="PackedScene" id=7]
+[ext_resource path="res://Hero.tscn" type="PackedScene" id=8]
+[ext_resource path="res://Orbe.tscn" type="PackedScene" id=9]
+[ext_resource path="res://Bandera.tscn" type="PackedScene" id=10]
+[ext_resource path="res://Enemy.tscn" type="PackedScene" id=11]
+
+[sub_resource type="ConvexPolygonShape2D" id=1]
+points = PackedVector2Array( 0, 0, 64, 0, 64, 64, 0, 64 )
+
+[sub_resource type="TileSet" id=2]
+0/name = "Platformer 2D TilesSet #1 64x64.png 0"
+0/texture = ExtResource( 6 )
+0/tex_offset = Vector2( 0, 0 )
+0/modulate = Color( 1, 1, 1, 1 )
+0/region = Rect2( 64, 0, 64, 64 )
+0/tile_mode = 0
+0/occluder_offset = Vector2( 0, 0 )
+0/navigation_offset = Vector2( 0, 0 )
+0/shape_offset = Vector2( 0, 0 )
+0/shape_transform = Transform2D( 1, 0, 0, 1, 0, 0 )
+0/shape = SubResource( 1 )
+0/shape_one_way = false
+0/shape_one_way_margin = 1.0
+0/shapes = [ {
+"autotile_coord": Vector2( 0, 0 ),
+"one_way": false,
+"one_way_margin": 1.0,
+"shape": SubResource( 1 ),
+"shape_transform": Transform2D( 1, 0, 0, 1, 0, 0 )
+} ]
+0/z_index = 0
+
+[node name="tercerNivel" type="Node2D"]
+
+[node name="Hero" parent="." instance=ExtResource( 8 )]
+position = Vector2( -671, 137 )
+
+[node name="Camera2D" type="Camera2D" parent="Hero"]
+position = Vector2( -8, -10 )
+current = true
+limit_left = -1400
+limit_top = -500
+limit_right = 1000
+limit_bottom = 250
+position_smoothing_enabled = true
+position_smoothing_speed = 3.0
+
+[node name="TileMap" type="TileMap" parent="."]
+tile_set = SubResource( 2 )
+format = 1
+tile_data = PackedInt32Array( 262121, 0, 0, 262122, 0, 0, 262123, 0, 0, 262124, 0, 0, 262125, 0, 0, 262126, 0, 0, 262127, 0, 0, 262128, 0, 0, 262129, 0, 0, 262130, 0, 0, 262131, 0, 0, 262132, 0, 0, 262133, 0, 0, 262134, 0, 0, 262135, 0, 0, 262136, 0, 0, 262137, 0, 0, 262138, 0, 0, 262139, 0, 0, 262140, 0, 0, 262141, 0, 0, 262142, 0, 0, 262143, 0, 0, 196608, 0, 0, 196609, 0, 0, 196610, 0, 0, 196611, 0, 0, 196612, 0, 0, 196613, 0, 0, 196614, 0, 0, 196615, 0, 0, 196616, 0, 0, 196617, 0, 0, 196618, 0, 0, 196619, 0, 0, 196620, 0, 0, 196621, 0, 0, 196622, 0, 0, 196623, 0, 0, 196624, 0, 0, 327657, 0, 0, 327658, 0, 0, 327659, 0, 0, 327660, 0, 0, 327661, 0, 0, 327662, 0, 0, 327663, 0, 0, 327664, 0, 0, 327665, 0, 0, 327666, 0, 0, 327667, 0, 0, 327668, 0, 0, 327669, 0, 0, 327670, 0, 0, 327671, 0, 0, 327672, 0, 0, 327673, 0, 0, 327674, 0, 0, 327675, 0, 0, 327676, 0, 0, 327677, 0, 0, 327678, 0, 0, 327679, 0, 0, 262144, 0, 0, 262145, 0, 0, 262146, 0, 0, 262147, 0, 0, 262148, 0, 0, 262149, 0, 0, 262150, 0, 0, 262151, 0, 0, 262152, 0, 0, 262153, 0, 0, 262154, 0, 0, 262155, 0, 0, 262156, 0, 0, 262157, 0, 0, 262158, 0, 0, 262159, 0, 0, 262160, 0, 0, 393193, 0, 0, 393194, 0, 0, 393195, 0, 0, 393196, 0, 0, 393197, 0, 0, 393198, 0, 0, 393199, 0, 0, 393200, 0, 0, 393201, 0, 0, 393202, 0, 0, 393203, 0, 0, 393204, 0, 0, 393205, 0, 0, 393206, 0, 0, 393207, 0, 0, 393208, 0, 0, 393209, 0, 0, 393210, 0, 0, 393211, 0, 0, 393212, 0, 0, 393213, 0, 0, 393214, 0, 0, 393215, 0, 0, 327680, 0, 0, 327681, 0, 0, 327682, 0, 0, 327683, 0, 0, 327684, 0, 0, 327685, 0, 0, 327686, 0, 0, 327687, 0, 0, 327688, 0, 0, 327689, 0, 0, 327690, 0, 0, 327691, 0, 0, 327692, 0, 0, 327693, 0, 0, 327694, 0, 0, 327695, 0, 0, 327696, 0, 0 )
+
+[node name="Edificio" parent="TileMap" instance=ExtResource( 7 )]
+position = Vector2( -1161, 23 )
+
+[node name="ParallaxBackground" type="ParallaxBackground" parent="."]
+
+[node name="ParallaxLayer" type="ParallaxLayer" parent="ParallaxBackground"]
+
+[node name="Sprite2D" type="Sprite2D" parent="ParallaxBackground/ParallaxLayer"]
+position = Vector2( -139.5, -185 )
+scale = Vector2( 4.616, 2.96 )
+texture = ExtResource( 5 )
+
+[node name="ParallaxBackground2" type="ParallaxBackground" parent="."]
+
+[node name="ParallaxLayer" type="ParallaxLayer" parent="ParallaxBackground2"]
+
+[node name="Sprite2D" type="Sprite2D" parent="ParallaxBackground2/ParallaxLayer"]
+position = Vector2( 0, -185 )
+scale = Vector2( 3.373, 2.96 )
+texture = ExtResource( 1 )
+
+[node name="ParallaxBackground3" type="ParallaxBackground" parent="."]
+
+[node name="ParallaxLayer" type="ParallaxLayer" parent="ParallaxBackground3"]
+
+[node name="Sprite2D" type="Sprite2D" parent="ParallaxBackground3/ParallaxLayer"]
+position = Vector2( 0, -185 )
+scale = Vector2( 3.373, 2.96 )
+texture = ExtResource( 4 )
+
+[node name="ParallaxBackground4" type="ParallaxBackground" parent="."]
+
+[node name="ParallaxLayer" type="ParallaxLayer" parent="ParallaxBackground4"]
+
+[node name="Sprite2D" type="Sprite2D" parent="ParallaxBackground4/ParallaxLayer"]
+position = Vector2( 0, -185 )
+scale = Vector2( 3.373, 2.96 )
+texture = ExtResource( 3 )
+
+[node name="ParallaxBackground5" type="ParallaxBackground" parent="."]
+scroll_base_scale = Vector2( 0.8, 0.8 )
+
+[node name="ParallaxLayer" type="ParallaxLayer" parent="ParallaxBackground5"]
+
+[node name="Sprite2D" type="Sprite2D" parent="ParallaxBackground5/ParallaxLayer"]
+position = Vector2( 0, -185 )
+scale = Vector2( 3.373, 2.96 )
+texture = ExtResource( 2 )
+
+[node name="Orbe" parent="." instance=ExtResource( 9 )]
+position = Vector2( -440, 152 )
+
+[node name="Edificio" parent="." instance=ExtResource( 7 )]
+position = Vector2( 1167, 25 )
+
+[node name="Enemy" parent="." instance=ExtResource( 11 )]
+position = Vector2( -344, 152 )
+
+[node name="Enemy2" parent="." instance=ExtResource( 11 )]
+position = Vector2( -253, 149 )
+
+[node name="Enemy3" parent="." instance=ExtResource( 11 )]
+position = Vector2( -160, 152 )
+
+[node name="Enemy4" parent="." instance=ExtResource( 11 )]
+position = Vector2( -80, 152 )
+
+[node name="Enemy5" parent="." instance=ExtResource( 11 )]
+position = Vector2( 16, 152 )
+
+[node name="Enemy6" parent="." instance=ExtResource( 11 )]
+position = Vector2( 99, 149 )
+
+[node name="Bandera" parent="." instance=ExtResource( 10 )]
+position = Vector2( 750, 159 )
+
+[connection signal="body_entered" from="Bandera" to="Hero" method="_on_Bandera_body_entered"]

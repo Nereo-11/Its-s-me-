@@ -1,0 +1,150 @@
+[gd_scene load_steps=14 format=3 uid="uid://bruw7pwsrlu7e"]
+
+[ext_resource type="Texture2D" uid="uid://be7rh57wglh56" path="res://AssetsDescargados/Platformer 2D TilesSet #1 64x64.png" id="1"]
+[ext_resource type="PackedScene" path="res://Hero.tscn" id="2"]
+[ext_resource type="PackedScene" path="res://Puerta.tscn" id="3"]
+[ext_resource type="Texture2D" uid="uid://so1yi1ko1l8y" path="res://AssetsDescargados/free-city-backgrounds-pixel-art/city 2/2.png" id="4"]
+[ext_resource type="Texture2D" uid="uid://cgtlxbk0cf2jb" path="res://AssetsDescargados/free-city-backgrounds-pixel-art/city 2/3.png" id="5"]
+[ext_resource type="Texture2D" uid="uid://bip2qkol572v" path="res://AssetsDescargados/free-city-backgrounds-pixel-art/city 2/5.png" id="6"]
+[ext_resource type="Texture2D" uid="uid://dy2qm8wqb0fiy" path="res://AssetsDescargados/free-city-backgrounds-pixel-art/city 2/4.png" id="7"]
+[ext_resource type="Texture2D" uid="uid://cmdjiiatyprw4" path="res://AssetsDescargados/free-city-backgrounds-pixel-art/city 2/1.png" id="8"]
+[ext_resource type="Texture2D" uid="uid://fna2h7lsjwso" path="res://AssetsDescargados/free-city-backgrounds-pixel-art/city 2/6.png" id="9"]
+[ext_resource type="PackedScene" path="res://Edificio.tscn" id="10"]
+[ext_resource type="Texture2D" uid="uid://df0vcjb0cv47u" path="res://AssetsDescargados/graveyardtilesetnew/png/Objects/Sign.png" id="11"]
+
+[sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_11w15"]
+texture = ExtResource("1")
+margins = Vector2i(128, 0)
+texture_region_size = Vector2i(64, 64)
+0:0/next_alternative_id = 8
+0:0/0 = 0
+0:0/0/physics_layer_0/polygon_0/points = PackedVector2Array(-32, -32, 32, -32, 32, 32, -32, 32)
+0:0/1 = 1
+0:0/1/flip_h = true
+0:0/1/physics_layer_0/polygon_0/points = PackedVector2Array(32, -32, -32, -32, -32, 32, 32, 32)
+0:0/2 = 2
+0:0/2/flip_v = true
+0:0/2/physics_layer_0/polygon_0/points = PackedVector2Array(-32, 32, 32, 32, 32, -32, -32, -32)
+0:0/3 = 3
+0:0/3/flip_h = true
+0:0/3/flip_v = true
+0:0/3/physics_layer_0/polygon_0/points = PackedVector2Array(32, 32, -32, 32, -32, -32, 32, -32)
+0:0/4 = 4
+0:0/4/transpose = true
+0:0/4/physics_layer_0/polygon_0/points = PackedVector2Array(-32, -32, -32, 32, 32, 32, 32, -32)
+0:0/5 = 5
+0:0/5/flip_h = true
+0:0/5/transpose = true
+0:0/5/physics_layer_0/polygon_0/points = PackedVector2Array(32, -32, 32, 32, -32, 32, -32, -32)
+0:0/6 = 6
+0:0/6/flip_v = true
+0:0/6/transpose = true
+0:0/6/physics_layer_0/polygon_0/points = PackedVector2Array(-32, 32, -32, -32, 32, -32, 32, 32)
+0:0/7 = 7
+0:0/7/flip_h = true
+0:0/7/flip_v = true
+0:0/7/transpose = true
+0:0/7/physics_layer_0/polygon_0/points = PackedVector2Array(32, 32, 32, -32, -32, -32, -32, 32)
+
+[sub_resource type="TileSet" id="1"]
+tile_size = Vector2i(64, 64)
+physics_layer_0/collision_layer = 1
+sources/0 = SubResource("TileSetAtlasSource_11w15")
+
+[node name="Main" type="Node"]
+
+[node name="TileMap" type="TileMap" parent="."]
+tile_set = SubResource("1")
+format = 2
+
+[node name="Puerta" parent="." instance=ExtResource("3")]
+position = Vector2(634, 157)
+
+[node name="Edificio" parent="Puerta" instance=ExtResource("10")]
+position = Vector2(-1795, -133)
+
+[node name="Hero" parent="." instance=ExtResource("2")]
+position = Vector2(-788, 76)
+
+[node name="Camera3D" type="Camera2D" parent="Hero"]
+limit_left = -14000
+limit_top = -500
+limit_right = 900
+limit_bottom = 250
+position_smoothing_enabled = true
+position_smoothing_speed = 3.0
+
+[node name="ParallaxBackground" type="ParallaxBackground" parent="."]
+
+[node name="ParallaxLayer" type="ParallaxLayer" parent="ParallaxBackground"]
+
+[node name="Sprite2D" type="Sprite2D" parent="ParallaxBackground/ParallaxLayer"]
+position = Vector2(-139.5, -185)
+scale = Vector2(4.61632, 2.95988)
+texture = ExtResource("8")
+
+[node name="ParallaxBackground2" type="ParallaxBackground" parent="."]
+
+[node name="ParallaxLayer" type="ParallaxLayer" parent="ParallaxBackground2"]
+
+[node name="Sprite2D" type="Sprite2D" parent="ParallaxBackground2/ParallaxLayer"]
+position = Vector2(0, -185)
+scale = Vector2(3.37326, 2.95988)
+texture = ExtResource("4")
+
+[node name="ParallaxBackground3" type="ParallaxBackground" parent="."]
+
+[node name="ParallaxLayer" type="ParallaxLayer" parent="ParallaxBackground3"]
+
+[node name="Sprite2D" type="Sprite2D" parent="ParallaxBackground3/ParallaxLayer"]
+position = Vector2(0, -185)
+scale = Vector2(3.37326, 2.95988)
+texture = ExtResource("5")
+
+[node name="ParallaxBackground4" type="ParallaxBackground" parent="."]
+
+[node name="ParallaxLayer" type="ParallaxLayer" parent="ParallaxBackground4"]
+
+[node name="Sprite2D" type="Sprite2D" parent="ParallaxBackground4/ParallaxLayer"]
+position = Vector2(0, -185)
+scale = Vector2(3.37326, 2.95988)
+texture = ExtResource("7")
+
+[node name="ParallaxBackground5" type="ParallaxBackground" parent="."]
+
+[node name="ParallaxLayer" type="ParallaxLayer" parent="ParallaxBackground5"]
+
+[node name="Sprite2D" type="Sprite2D" parent="ParallaxBackground5/ParallaxLayer"]
+position = Vector2(0, -185)
+scale = Vector2(3.37326, 2.95988)
+texture = ExtResource("6")
+
+[node name="ParallaxBackground6" type="ParallaxBackground" parent="."]
+scroll_base_scale = Vector2(0.8, 0.8)
+
+[node name="ParallaxLayer" type="ParallaxLayer" parent="ParallaxBackground6"]
+
+[node name="Sprite2D" type="Sprite2D" parent="ParallaxBackground6/ParallaxLayer"]
+position = Vector2(0, -185)
+scale = Vector2(3.37326, 2.95988)
+texture = ExtResource("9")
+
+[node name="ParallaxBackground7" type="ParallaxBackground" parent="."]
+
+[node name="ParallaxLayer" type="ParallaxLayer" parent="ParallaxBackground7"]
+
+[node name="Sprite2D" type="Sprite2D" parent="ParallaxBackground7/ParallaxLayer"]
+position = Vector2(-498, 121)
+scale = Vector2(1.81868, 1.53226)
+texture = ExtResource("11")
+
+[node name="Label" type="Label" parent="ParallaxBackground7/ParallaxLayer/Sprite2D"]
+offset_left = -33.5408
+offset_top = -35.8947
+offset_right = 35.4592
+offset_bottom = 12.1053
+text = "Utiliza las 
+tecla \"Z\" 
+para atacar"
+horizontal_alignment = 1
+vertical_alignment = 1

@@ -1,0 +1,5 @@
+res://default_env.tres
+res://Main.tscn
+res://Niveles/primerNivel.tscn
+res://HeroP.gd
+res://Hero.tscn

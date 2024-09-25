@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://dxe4n75n5jji2"
+path="res://.godot/imported/Bonnie Tyler - Holding Out for a Hero (Official Lyric Video) (320).mp3-d1e8e69f3b24475fc670aa110225e854.mp3str"
+
+[deps]
+
+source_file="res://Bonnie Tyler - Holding Out for a Hero (Official Lyric Video) (320).mp3"
+dest_files=["res://.godot/imported/Bonnie Tyler - Holding Out for a Hero (Official Lyric Video) (320).mp3-d1e8e69f3b24475fc670aa110225e854.mp3str"]
+
+[params]
+
+loop=true
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

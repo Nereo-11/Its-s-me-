@@ -1,0 +1,88 @@
+[gd_scene load_steps=11 format=3 uid="uid://cj5jrp0mebfvo"]
+
+[ext_resource type="PackedScene" path="res://Hero.tscn" id="1"]
+[ext_resource type="TileSet" path="res://myTiles/Campo.tres" id="2"]
+[ext_resource type="Texture2D" uid="uid://ck2bqi3jckwua" path="res://AssetsDescargados/parallax_mountain_pack/parallax_mountain_pack/layers/parallax-mountain-bg.png" id="3"]
+[ext_resource type="Texture2D" uid="uid://ds7t1um5fajmm" path="res://AssetsDescargados/Super Mountain Dusk Files/Super Mountain Dusk Files/Layers/trees.png" id="4"]
+[ext_resource type="Texture2D" uid="uid://hjgi1jgmfnn5" path="res://AssetsDescargados/Super Mountain Dusk Files/Super Mountain Dusk Files/Layers/mountains.png" id="5"]
+[ext_resource type="PackedScene" path="res://Enemy.tscn" id="7"]
+[ext_resource type="PackedScene" path="res://Puerta.tscn" id="8"]
+[ext_resource type="Script" path="res://Puerta2.gd" id="9"]
+[ext_resource type="PackedScene" path="res://Orbe.tscn" id="10"]
+[ext_resource type="PackedScene" path="res://Arbol.tscn" id="11"]
+
+[node name="primerNivel" type="Node2D"]
+
+[node name="Hero" parent="." instance=ExtResource("1")]
+position = Vector2(-750, -69)
+
+[node name="Camera2D" type="Camera2D" parent="Hero"]
+position = Vector2(0, -1)
+limit_left = -1100
+limit_top = -1000
+limit_right = 3600
+limit_bottom = 300
+position_smoothing_enabled = true
+position_smoothing_speed = 3.0
+
+[node name="TileMap" type="TileMap" parent="."]
+position = Vector2(1, 0)
+tile_set = ExtResource("2")
+format = 2
+
+[node name="Fondo" type="ParallaxBackground" parent="."]
+
+[node name="ParallaxLayer" type="ParallaxLayer" parent="Fondo"]
+
+[node name="Sprite2D" type="Sprite2D" parent="Fondo/ParallaxLayer"]
+position = Vector2(1392.5, -50)
+scale = Vector2(19.4007, 12.6156)
+texture = ExtResource("3")
+
+[node name="ParallaxBackground2" type="ParallaxBackground" parent="."]
+
+[node name="ParallaxLayer" type="ParallaxLayer" parent="ParallaxBackground2"]
+motion_mirroring = Vector2(1000, 0)
+
+[node name="Sprite2D" type="Sprite2D" parent="ParallaxBackground2/ParallaxLayer"]
+position = Vector2(-5.99998, -234)
+scale = Vector2(6.34531, 2.91667)
+texture = ExtResource("5")
+
+[node name="ParallaxBackground" type="ParallaxBackground" parent="."]
+
+[node name="ParallaxLayer" type="ParallaxLayer" parent="ParallaxBackground"]
+motion_mirroring = Vector2(1000, 0)
+
+[node name="Sprite2D" type="Sprite2D" parent="ParallaxBackground/ParallaxLayer"]
+position = Vector2(-464, -312)
+scale = Vector2(4.55833, 3)
+texture = ExtResource("4")
+
+[node name="Enemy" parent="." instance=ExtResource("7")]
+position = Vector2(743, -345)
+
+[node name="Enemy2" parent="." instance=ExtResource("7")]
+position = Vector2(1795, -34)
+
+[node name="Enemy3" parent="." instance=ExtResource("7")]
+position = Vector2(2145, -41)
+
+[node name="Enemy4" parent="." instance=ExtResource("7")]
+position = Vector2(1357, -427)
+
+[node name="Puerta" parent="." instance=ExtResource("8")]
+position = Vector2(3463, -347)
+script = ExtResource("9")
+
+[node name="Orbe" parent="." instance=ExtResource("10")]
+position = Vector2(1234, -432)
+
+[node name="Orbe2" parent="." instance=ExtResource("10")]
+position = Vector2(120, -43)
+
+[node name="Arbol" parent="." instance=ExtResource("11")]
+position = Vector2(-1055, -225)
+
+[connection signal="body_entered" from="Orbe" to="Hero" method="_on_Orbe_body_entered"]
+[connection signal="body_entered" from="Orbe2" to="Hero" method="_on_Orbe2_body_entered"]

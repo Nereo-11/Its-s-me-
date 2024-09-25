@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://bdf44fqxvew7v"
+path="res://.godot/imported/utomp3.com - Peso Vivaldi  Lady Gaga.mp3-224bdeecd67ade1406b796882453cfbd.mp3str"
+
+[deps]
+
+source_file="res://AssetsDescargados/utomp3.com - Peso Vivaldi  Lady Gaga.mp3"
+dest_files=["res://.godot/imported/utomp3.com - Peso Vivaldi  Lady Gaga.mp3-224bdeecd67ade1406b796882453cfbd.mp3str"]
+
+[params]
+
+loop=true
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

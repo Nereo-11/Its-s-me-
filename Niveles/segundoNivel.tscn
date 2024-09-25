@@ -1,0 +1,101 @@
+[gd_scene load_steps=12 format=2]
+
+[ext_resource path="res://Hero.tscn" type="PackedScene" id=1]
+[ext_resource path="res://myTiles/Pantano.tres" type="TileSet" id=2]
+[ext_resource path="res://AssetsDescargados/Free-Summer-Pixel-Art-Backgrounds/PNG/summer 3/3.png" type="Texture2D" id=3]
+[ext_resource path="res://AssetsDescargados/Free-Summer-Pixel-Art-Backgrounds/PNG/summer 3/4.png" type="Texture2D" id=4]
+[ext_resource path="res://Enemy.tscn" type="PackedScene" id=5]
+[ext_resource path="res://AssetsDescargados/Free-Summer-Pixel-Art-Backgrounds/PNG/summer 3/2.png" type="Texture2D" id=6]
+[ext_resource path="res://AssetsDescargados/Free-Summer-Pixel-Art-Backgrounds/PNG/summer 3/1.png" type="Texture2D" id=7]
+[ext_resource path="res://Arbol2.tscn" type="PackedScene" id=8]
+[ext_resource path="res://Orbe.tscn" type="PackedScene" id=9]
+[ext_resource path="res://Puerta.tscn" type="PackedScene" id=10]
+[ext_resource path="res://Puerta3.gd" type="Script" id=11]
+
+[node name="segundoNivel" type="Node2D"]
+__meta__ = {
+"_edit_horizontal_guides_": [  ]
+}
+
+[node name="Hero" parent="." instance=ExtResource( 1 )]
+position = Vector2( -139, -62 )
+
+[node name="Camera2D" type="Camera2D" parent="Hero"]
+position = Vector2( -1, -1 )
+current = true
+limit_left = -1050
+limit_top = -850
+limit_right = 1900
+limit_bottom = 100
+position_smoothing_enabled = true
+position_smoothing_speed = 3.0
+
+[node name="TileMap" type="TileMap" parent="."]
+position = Vector2( -168, 0 )
+tile_set = ExtResource( 2 )
+format = 1
+tile_data = PackedInt32Array( -589807, 8, 0, -589805, 9, 0, -589803, 9, 0, -589802, 9, 0, -589801, 0, 0, -589797, 8, 0, -589795, 9, 0, -589793, 0, 0, -589791, 1, 0, -524255, 1, 0, -458745, 8, 0, -458743, 9, 0, -458741, 9, 0, -458739, 0, 0, -458720, 1, 0, -458719, 1, 0, -393201, 8, 0, -393199, 0, 0, -393184, 1, 0, -393183, 1, 0, -327648, 1, 0, -327647, 1, 0, -262125, 8, 0, -262123, 9, 0, -262121, 9, 0, -262120, 9, 0, -262118, 0, 0, -262112, 1, 0, -262111, 1, 0, -196576, 1, 0, -196575, 1, 0, -131043, 1, 0, -131042, 1, 0, -131041, 1, 0, -131040, 1, 0, -131039, 1, 0, 65521, 1, 0, 65522, 1, 0, 65523, 1, 0, 65524, 1, 0, 65525, 1, 0, 65526, 1, 0, 65527, 1, 0, 65528, 1, 0, 65529, 1, 0, 65530, 1, 0, 65531, 1, 0, 65532, 1, 0, 65533, 1, 0, 65534, 1, 0, 65535, 1, 0, 0, 1, 0, 1, 1, 0, 2, 1, 0, 3, 1, 0, 4, 1, 0, 5, 1, 0, 6, 1, 0, 7, 1, 0, 8, 1, 0, 9, 1, 0, 10, 1, 0, 11, 1, 0, 12, 1, 0, 13, 1, 0, 14, 1, 0, 15, 1, 0, 16, 1, 0, 17, 1, 0, 18, 1, 0, 19, 1, 0, 20, 1, 0, 21, 1, 0, 22, 1, 0, 23, 1, 0, 24, 1, 0, 25, 1, 0, 26, 1, 0, 27, 1, 0, 28, 1, 0, 29, 4, 0, 30, 4, 0, 31, 4, 0, 32, 4, 0, 33, 4, 0 )
+
+[node name="Fondo" type="ParallaxBackground" parent="."]
+
+[node name="ParallaxLayer" type="ParallaxLayer" parent="Fondo"]
+
+[node name="Sprite2D" type="Sprite2D" parent="Fondo/ParallaxLayer"]
+position = Vector2( 411, -430 )
+scale = Vector2( 5.30903, 3 )
+texture = ExtResource( 7 )
+
+[node name="ParallaxLayerBackground" type="ParallaxBackground" parent="."]
+
+[node name="ParallaxLayer" type="ParallaxLayer" parent="ParallaxLayerBackground"]
+
+[node name="Sprite2D" type="Sprite2D" parent="ParallaxLayerBackground/ParallaxLayer"]
+position = Vector2( 412.5, -430 )
+scale = Vector2( 5.30382, 3 )
+texture = ExtResource( 6 )
+
+[node name="ParallaxLayerBackground2" type="ParallaxBackground" parent="."]
+
+[node name="ParallaxLayer" type="ParallaxLayer" parent="ParallaxLayerBackground2"]
+
+[node name="Sprite2D" type="Sprite2D" parent="ParallaxLayerBackground2/ParallaxLayer"]
+position = Vector2( 411, -430 )
+scale = Vector2( 5.30903, 3 )
+texture = ExtResource( 3 )
+
+[node name="ParallaxLayerBackground3" type="ParallaxBackground" parent="."]
+
+[node name="ParallaxLayer" type="ParallaxLayer" parent="ParallaxLayerBackground3"]
+
+[node name="Sprite2D" type="Sprite2D" parent="ParallaxLayerBackground3/ParallaxLayer"]
+position = Vector2( 412.5, -430 )
+scale = Vector2( 5.30382, 3 )
+texture = ExtResource( 4 )
+
+[node name="Puerta" parent="." instance=ExtResource( 10 )]
+position = Vector2( 1854, -615 )
+script = ExtResource( 11 )
+
+[node name="CharacterBody2D" parent="." instance=ExtResource( 8 )]
+position = Vector2( -942, -245 )
+
+[node name="Orbe3" parent="." instance=ExtResource( 9 )]
+position = Vector2( 760, -59 )
+
+[node name="Orbe2" parent="." instance=ExtResource( 9 )]
+position = Vector2( 703, -498 )
+
+[node name="Enemy" parent="." instance=ExtResource( 5 )]
+position = Vector2( 283, -47 )
+
+[node name="Enemy2" parent="." instance=ExtResource( 5 )]
+position = Vector2( 885, -33 )
+
+[node name="Enemy3" parent="." instance=ExtResource( 5 )]
+position = Vector2( 1416, -46 )
+
+[node name="Enemy4" parent="." instance=ExtResource( 5 )]
+position = Vector2( 551, -490 )
+
+[node name="Enemy5" parent="." instance=ExtResource( 5 )]
+position = Vector2( 1608, -40 )
